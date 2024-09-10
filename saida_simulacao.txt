@@ -1,0 +1,7002 @@
+Número de resultados: 1000
+
+Tempo: 100.00 s
+Maior tamanho de fila alcançado: 22
+Ocupação: 0.828521
+E[N]: 6.060051
+E[W]: 2.975651
+Erro de Little: 0.322272
+
+Tempo: 200.00 s
+Maior tamanho de fila alcançado: 22
+Ocupação: 0.808873
+E[N]: 4.221577
+E[W]: 0.668689
+Erro de Little: 2.881188
+
+Tempo: 300.00 s
+Maior tamanho de fila alcançado: 22
+Ocupação: 0.813558
+E[N]: 3.711059
+E[W]: 0.783927
+Erro de Little: 2.190485
+
+Tempo: 400.00 s
+Maior tamanho de fila alcançado: 22
+Ocupação: 0.829070
+E[N]: 4.764359
+E[W]: 3.510292
+Erro de Little: -2.043120
+
+Tempo: 500.00 s
+Maior tamanho de fila alcançado: 22
+Ocupação: 0.819442
+E[N]: 4.401848
+E[W]: 1.717937
+Erro de Little: 1.095410
+
+Tempo: 600.00 s
+Maior tamanho de fila alcançado: 29
+Ocupação: 0.841948
+E[N]: 5.511123
+E[W]: 3.440869
+Erro de Little: -1.284095
+
+Tempo: 700.00 s
+Maior tamanho de fila alcançado: 30
+Ocupação: 0.862149
+E[N]: 6.954843
+E[W]: 5.459596
+Erro de Little: -3.866116
+
+Tempo: 800.00 s
+Maior tamanho de fila alcançado: 30
+Ocupação: 0.880204
+E[N]: 7.964039
+E[W]: 6.690680
+Erro de Little: -5.339984
+
+Tempo: 900.00 s
+Maior tamanho de fila alcançado: 30
+Ocupação: 0.885233
+E[N]: 7.827007
+E[W]: 3.251871
+Erro de Little: 1.352252
+
+Tempo: 1000.00 s
+Maior tamanho de fila alcançado: 30
+Ocupação: 0.886473
+E[N]: 7.703392
+E[W]: 4.213865
+Erro de Little: -0.701527
+
+Tempo: 1100.00 s
+Maior tamanho de fila alcançado: 30
+Ocupação: 0.878659
+E[N]: 7.313179
+E[W]: 4.381715
+Erro de Little: -1.385149
+
+Tempo: 1200.00 s
+Maior tamanho de fila alcançado: 30
+Ocupação: 0.878501
+E[N]: 7.320385
+E[W]: 6.011755
+Erro de Little: -4.582176
+
+Tempo: 1300.00 s
+Maior tamanho de fila alcançado: 32
+Ocupação: 0.885346
+E[N]: 7.554022
+E[W]: 4.443909
+Erro de Little: -1.374393
+
+Tempo: 1400.00 s
+Maior tamanho de fila alcançado: 34
+Ocupação: 0.888723
+E[N]: 8.207226
+E[W]: 4.485428
+Erro de Little: -0.824481
+
+Tempo: 1500.00 s
+Maior tamanho de fila alcançado: 34
+Ocupação: 0.888328
+E[N]: 7.966456
+E[W]: 3.632522
+Erro de Little: 0.650606
+
+Tempo: 1600.00 s
+Maior tamanho de fila alcançado: 34
+Ocupação: 0.887638
+E[N]: 7.794165
+E[W]: 5.794273
+Erro de Little: -3.878585
+
+Tempo: 1700.00 s
+Maior tamanho de fila alcançado: 34
+Ocupação: 0.894209
+E[N]: 7.896790
+E[W]: 4.223557
+Erro de Little: -0.621406
+
+Tempo: 1800.00 s
+Maior tamanho de fila alcançado: 34
+Ocupação: 0.895690
+E[N]: 7.844045
+E[W]: 2.692484
+Erro de Little: 2.406758
+
+Tempo: 1900.00 s
+Maior tamanho de fila alcançado: 34
+Ocupação: 0.898023
+E[N]: 7.758174
+E[W]: 3.476940
+Erro de Little: 0.724429
+
+Tempo: 2000.00 s
+Maior tamanho de fila alcançado: 34
+Ocupação: 0.898006
+E[N]: 7.869383
+E[W]: 4.677332
+Erro de Little: -1.549352
+
+Tempo: 2100.00 s
+Maior tamanho de fila alcançado: 34
+Ocupação: 0.896138
+E[N]: 7.682741
+E[W]: 2.962695
+Erro de Little: 1.714151
+
+Tempo: 2200.00 s
+Maior tamanho de fila alcançado: 34
+Ocupação: 0.900675
+E[N]: 7.821686
+E[W]: 4.108035
+Erro de Little: -0.480054
+
+Tempo: 2300.00 s
+Maior tamanho de fila alcançado: 34
+Ocupação: 0.903895
+E[N]: 7.894639
+E[W]: 5.512576
+Erro de Little: -3.243890
+
+Tempo: 2400.00 s
+Maior tamanho de fila alcançado: 45
+Ocupação: 0.907696
+E[N]: 8.223243
+E[W]: 3.575183
+Erro de Little: 0.945805
+
+Tempo: 2500.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.911404
+E[N]: 9.173506
+E[W]: 3.474580
+Erro de Little: 2.114756
+
+Tempo: 2600.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.914384
+E[N]: 9.299495
+E[W]: 5.643510
+Erro de Little: -2.225851
+
+Tempo: 2700.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.917550
+E[N]: 9.591514
+E[W]: 4.638196
+Erro de Little: 0.119416
+
+Tempo: 2800.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.914989
+E[N]: 9.422759
+E[W]: 4.969334
+Erro de Little: -0.721357
+
+Tempo: 2900.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.912412
+E[N]: 9.225798
+E[W]: 5.044374
+Erro de Little: -1.075085
+
+Tempo: 3000.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.914577
+E[N]: 9.126200
+E[W]: 4.348482
+Erro de Little: 0.233564
+
+Tempo: 3100.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.913212
+E[N]: 9.012016
+E[W]: 5.857061
+Erro de Little: -2.962009
+
+Tempo: 3200.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.914097
+E[N]: 9.073334
+E[W]: 4.838013
+Erro de Little: -0.830735
+
+Tempo: 3300.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.916615
+E[N]: 9.343092
+E[W]: 3.173885
+Erro de Little: 2.849685
+
+Tempo: 3400.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.917897
+E[N]: 9.414690
+E[W]: 4.850038
+Erro de Little: -0.533301
+
+Tempo: 3500.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.918542
+E[N]: 9.350666
+E[W]: 4.073662
+Erro de Little: 0.999058
+
+Tempo: 3600.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.920793
+E[N]: 9.598610
+E[W]: 4.815524
+Erro de Little: -0.297133
+
+Tempo: 3700.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.919919
+E[N]: 9.442921
+E[W]: 3.596425
+Erro de Little: 2.058910
+
+Tempo: 3800.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.918014
+E[N]: 9.366898
+E[W]: 6.534631
+Erro de Little: -4.034618
+
+Tempo: 3900.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.919008
+E[N]: 9.421271
+E[W]: 4.038426
+Erro de Little: 1.124842
+
+Tempo: 4000.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.919622
+E[N]: 9.511841
+E[W]: 3.422823
+Erro de Little: 2.493473
+
+Tempo: 4100.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.918965
+E[N]: 9.375486
+E[W]: 3.915001
+Erro de Little: 1.343357
+
+Tempo: 4200.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.919406
+E[N]: 9.308919
+E[W]: 5.148934
+Erro de Little: -1.262225
+
+Tempo: 4300.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.920948
+E[N]: 9.708388
+E[W]: 5.015372
+Erro de Little: -0.621989
+
+Tempo: 4400.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.922756
+E[N]: 9.798800
+E[W]: 5.342221
+Erro de Little: -1.193960
+
+Tempo: 4500.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.923609
+E[N]: 9.701413
+E[W]: 4.165907
+Erro de Little: 1.116962
+
+Tempo: 4600.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.924511
+E[N]: 9.650762
+E[W]: 4.976419
+Erro de Little: -0.598963
+
+Tempo: 4700.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.920537
+E[N]: 9.504465
+E[W]: 3.979965
+Erro de Little: 1.323611
+
+Tempo: 4800.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.921124
+E[N]: 9.434958
+E[W]: 5.000853
+Erro de Little: -0.859807
+
+Tempo: 4900.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.917750
+E[N]: 9.293535
+E[W]: 5.573795
+Erro de Little: -2.167959
+
+Tempo: 5000.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.917185
+E[N]: 9.172745
+E[W]: 4.014471
+Erro de Little: 0.921494
+
+Tempo: 5100.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.918798
+E[N]: 9.280275
+E[W]: 4.599634
+Erro de Little: -0.194838
+
+Tempo: 5200.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.918956
+E[N]: 9.221865
+E[W]: 4.939410
+Erro de Little: -0.927327
+
+Tempo: 5300.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.918324
+E[N]: 9.124971
+E[W]: 6.349674
+Erro de Little: -3.910817
+
+Tempo: 5400.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.917256
+E[N]: 9.030379
+E[W]: 6.587877
+Erro de Little: -4.481642
+
+Tempo: 5500.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.916647
+E[N]: 8.963394
+E[W]: 3.828135
+Erro de Little: 1.104621
+
+Tempo: 5600.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.917109
+E[N]: 8.905210
+E[W]: 4.607190
+Erro de Little: -0.564096
+
+Tempo: 5700.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.917807
+E[N]: 8.852027
+E[W]: 3.420084
+Erro de Little: 1.815898
+
+Tempo: 5800.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.917701
+E[N]: 8.760880
+E[W]: 6.314526
+Erro de Little: -4.236857
+
+Tempo: 5900.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.917140
+E[N]: 8.692683
+E[W]: 4.005667
+Erro de Little: 0.445264
+
+Tempo: 6000.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.915210
+E[N]: 8.605358
+E[W]: 3.726907
+Erro de Little: 0.934404
+
+Tempo: 6100.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.915219
+E[N]: 8.542414
+E[W]: 3.850512
+Erro de Little: 0.627518
+
+Tempo: 6200.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.913878
+E[N]: 8.460222
+E[W]: 4.227051
+Erro de Little: -0.224882
+
+Tempo: 6300.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.912697
+E[N]: 8.428061
+E[W]: 3.739966
+Erro de Little: 0.753581
+
+Tempo: 6400.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.911230
+E[N]: 8.342012
+E[W]: 3.644968
+Erro de Little: 0.864961
+
+Tempo: 6500.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.910086
+E[N]: 8.320516
+E[W]: 4.211352
+Erro de Little: -0.315212
+
+Tempo: 6600.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.908992
+E[N]: 8.264109
+E[W]: 4.281331
+Erro de Little: -0.503882
+
+Tempo: 6700.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.908418
+E[N]: 8.195840
+E[W]: 4.443470
+Erro de Little: -0.899988
+
+Tempo: 6800.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.908656
+E[N]: 8.244927
+E[W]: 5.346188
+Erro de Little: -2.708782
+
+Tempo: 6900.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.907015
+E[N]: 8.177691
+E[W]: 4.152249
+Erro de Little: -0.322243
+
+Tempo: 7000.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.906694
+E[N]: 8.145744
+E[W]: 4.787196
+Erro de Little: -1.659677
+
+Tempo: 7100.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.907808
+E[N]: 8.163611
+E[W]: 5.963593
+Erro de Little: -4.046159
+
+Tempo: 7200.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.909369
+E[N]: 8.196080
+E[W]: 4.917237
+Erro de Little: -1.883040
+
+Tempo: 7300.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.910298
+E[N]: 8.290469
+E[W]: 4.699170
+Erro de Little: -1.336873
+
+Tempo: 7400.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.910181
+E[N]: 8.257322
+E[W]: 4.231053
+Erro de Little: -0.404326
+
+Tempo: 7500.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.910493
+E[N]: 8.255807
+E[W]: 6.133177
+Erro de Little: -4.304603
+
+Tempo: 7600.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.910884
+E[N]: 8.316022
+E[W]: 3.182877
+Erro de Little: 1.796223
+
+Tempo: 7700.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.910744
+E[N]: 8.253862
+E[W]: 3.482084
+Erro de Little: 1.118850
+
+Tempo: 7800.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.912047
+E[N]: 8.277616
+E[W]: 4.578725
+Erro de Little: -1.108519
+
+Tempo: 7900.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.911379
+E[N]: 8.234434
+E[W]: 4.590203
+Erro de Little: -1.161328
+
+Tempo: 8000.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.910571
+E[N]: 8.176796
+E[W]: 4.940548
+Erro de Little: -1.927791
+
+Tempo: 8100.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.909726
+E[N]: 8.124070
+E[W]: 4.362784
+Erro de Little: -0.784033
+
+Tempo: 8200.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.907746
+E[N]: 8.055917
+E[W]: 6.421437
+Erro de Little: -5.035783
+
+Tempo: 8300.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.906828
+E[N]: 7.991603
+E[W]: 3.011931
+Erro de Little: 1.855776
+
+Tempo: 8400.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.905164
+E[N]: 7.931698
+E[W]: 2.594199
+Erro de Little: 2.651750
+
+Tempo: 8500.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.905593
+E[N]: 7.945741
+E[W]: 3.515145
+Erro de Little: 0.787328
+
+Tempo: 8600.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.906225
+E[N]: 7.986648
+E[W]: 4.634123
+Erro de Little: -1.445636
+
+Tempo: 8700.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.906164
+E[N]: 8.012275
+E[W]: 3.394278
+Erro de Little: 1.100323
+
+Tempo: 8800.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.906460
+E[N]: 8.007814
+E[W]: 3.971136
+Erro de Little: -0.073892
+
+Tempo: 8900.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.906877
+E[N]: 7.985153
+E[W]: 3.180749
+Erro de Little: 1.512992
+
+Tempo: 9000.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.905565
+E[N]: 7.929022
+E[W]: 6.186519
+Erro de Little: -4.648907
+
+Tempo: 9100.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.905095
+E[N]: 7.890502
+E[W]: 3.631509
+Erro de Little: 0.510174
+
+Tempo: 9200.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.904997
+E[N]: 7.871036
+E[W]: 5.874992
+Erro de Little: -4.083920
+
+Tempo: 9300.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.904894
+E[N]: 7.847688
+E[W]: 5.333088
+Erro de Little: -2.992732
+
+Tempo: 9400.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.903986
+E[N]: 7.811600
+E[W]: 2.576034
+Erro de Little: 2.578691
+
+Tempo: 9500.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.903174
+E[N]: 7.770270
+E[W]: 4.262614
+Erro de Little: -0.880781
+
+Tempo: 9600.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.902852
+E[N]: 7.716886
+E[W]: 3.478182
+Erro de Little: 0.655489
+
+Tempo: 9700.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.902548
+E[N]: 7.676831
+E[W]: 2.966850
+Erro de Little: 1.659606
+
+Tempo: 9800.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.902267
+E[N]: 7.641808
+E[W]: 4.077550
+Erro de Little: -0.626652
+
+Tempo: 9900.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.902276
+E[N]: 7.626096
+E[W]: 2.937586
+Erro de Little: 1.664935
+
+Tempo: 10000.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.901606
+E[N]: 7.586367
+E[W]: 5.514013
+Erro de Little: -3.600381
+
+Tempo: 10100.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.901994
+E[N]: 7.564064
+E[W]: 4.642502
+Erro de Little: -1.857383
+
+Tempo: 10200.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.902889
+E[N]: 7.610593
+E[W]: 3.049974
+Erro de Little: 1.415264
+
+Tempo: 10300.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.902871
+E[N]: 7.626903
+E[W]: 2.504185
+Erro de Little: 2.540337
+
+Tempo: 10400.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.903862
+E[N]: 7.691391
+E[W]: 7.291444
+Erro de Little: -7.129042
+
+Tempo: 10500.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.904601
+E[N]: 7.781863
+E[W]: 4.533248
+Erro de Little: -1.432711
+
+Tempo: 10600.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.904043
+E[N]: 7.731929
+E[W]: 4.173821
+Erro de Little: -0.747835
+
+Tempo: 10700.00 s
+Maior tamanho de fila alcançado: 48
+Ocupação: 0.904161
+E[N]: 7.799546
+E[W]: 3.610981
+Erro de Little: 0.459178
+
+Tempo: 10800.00 s
+Maior tamanho de fila alcançado: 49
+Ocupação: 0.905143
+E[N]: 8.067237
+E[W]: 4.606203
+Erro de Little: -1.292532
+
+Tempo: 10900.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905916
+E[N]: 8.343685
+E[W]: 4.340325
+Erro de Little: -0.483775
+
+Tempo: 11000.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906823
+E[N]: 8.539896
+E[W]: 4.897959
+Erro de Little: -1.415970
+
+Tempo: 11100.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.907418
+E[N]: 8.556528
+E[W]: 4.659456
+Erro de Little: -0.907872
+
+Tempo: 11200.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906395
+E[N]: 8.506394
+E[W]: 3.957282
+Erro de Little: 0.479156
+
+Tempo: 11300.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906969
+E[N]: 8.524390
+E[W]: 2.709710
+Erro de Little: 3.023518
+
+Tempo: 11400.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905686
+E[N]: 8.473415
+E[W]: 1.497383
+Erro de Little: 5.437152
+
+Tempo: 11500.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906227
+E[N]: 8.463196
+E[W]: 4.290586
+Erro de Little: -0.242180
+
+Tempo: 11600.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.907096
+E[N]: 8.706932
+E[W]: 1.904005
+Erro de Little: 4.840703
+
+Tempo: 11700.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.907013
+E[N]: 8.720004
+E[W]: 5.161035
+Erro de Little: -1.753273
+
+Tempo: 11800.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906763
+E[N]: 8.694761
+E[W]: 3.543926
+Erro de Little: 1.503395
+
+Tempo: 11900.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906041
+E[N]: 8.652906
+E[W]: 4.093988
+Erro de Little: 0.350736
+
+Tempo: 12000.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905261
+E[N]: 8.610729
+E[W]: 3.510796
+Erro de Little: 1.496429
+
+Tempo: 12100.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905509
+E[N]: 8.610443
+E[W]: 4.486460
+Erro de Little: -0.479484
+
+Tempo: 12200.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905240
+E[N]: 8.580802
+E[W]: 5.768158
+Erro de Little: -3.105836
+
+Tempo: 12300.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905959
+E[N]: 8.592972
+E[W]: 3.742382
+Erro de Little: 1.005890
+
+Tempo: 12400.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906686
+E[N]: 8.661188
+E[W]: 5.160757
+Erro de Little: -1.805337
+
+Tempo: 12500.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906701
+E[N]: 8.663004
+E[W]: 4.128710
+Erro de Little: 0.289745
+
+Tempo: 12600.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906909
+E[N]: 8.649711
+E[W]: 5.358281
+Erro de Little: -2.212947
+
+Tempo: 12700.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906069
+E[N]: 8.608244
+E[W]: 3.408761
+Erro de Little: 1.701386
+
+Tempo: 12800.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906768
+E[N]: 8.634341
+E[W]: 3.807780
+Erro de Little: 0.919030
+
+Tempo: 12900.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.907030
+E[N]: 8.647576
+E[W]: 3.824883
+Erro de Little: 0.895617
+
+Tempo: 13000.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.907762
+E[N]: 8.675875
+E[W]: 2.852824
+Erro de Little: 2.894417
+
+Tempo: 13100.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908297
+E[N]: 8.676753
+E[W]: 3.962376
+Erro de Little: 0.643120
+
+Tempo: 13200.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908817
+E[N]: 8.674998
+E[W]: 3.000655
+Erro de Little: 2.588402
+
+Tempo: 13300.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.909060
+E[N]: 8.667501
+E[W]: 5.133984
+Erro de Little: -1.743028
+
+Tempo: 13400.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908494
+E[N]: 8.646537
+E[W]: 4.201278
+Erro de Little: 0.131151
+
+Tempo: 13500.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.909182
+E[N]: 8.765516
+E[W]: 5.144504
+Erro de Little: -1.668098
+
+Tempo: 13600.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.909268
+E[N]: 8.756876
+E[W]: 4.796164
+Erro de Little: -0.970672
+
+Tempo: 13700.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.909072
+E[N]: 8.747521
+E[W]: 4.650209
+Erro de Little: -0.689944
+
+Tempo: 13800.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908879
+E[N]: 8.755301
+E[W]: 4.778337
+Erro de Little: -0.934758
+
+Tempo: 13900.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908999
+E[N]: 8.749864
+E[W]: 4.778417
+Erro de Little: -0.940902
+
+Tempo: 14000.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908314
+E[N]: 8.707452
+E[W]: 4.183812
+Erro de Little: 0.226872
+
+Tempo: 14100.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.909006
+E[N]: 8.764980
+E[W]: 5.167739
+Erro de Little: -1.711550
+
+Tempo: 14200.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.909066
+E[N]: 8.748800
+E[W]: 5.700169
+Erro de Little: -2.804835
+
+Tempo: 14300.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908984
+E[N]: 8.744513
+E[W]: 4.776496
+Erro de Little: -0.939818
+
+Tempo: 14400.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.909119
+E[N]: 8.735389
+E[W]: 4.565819
+Erro de Little: -0.516635
+
+Tempo: 14500.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908382
+E[N]: 8.713090
+E[W]: 7.294386
+Erro de Little: -6.056084
+
+Tempo: 14600.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908983
+E[N]: 8.745633
+E[W]: 4.980244
+Erro de Little: -1.340359
+
+Tempo: 14700.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908779
+E[N]: 8.742482
+E[W]: 5.142979
+Erro de Little: -1.668966
+
+Tempo: 14800.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.908116
+E[N]: 8.705785
+E[W]: 3.637165
+Erro de Little: 1.343889
+
+Tempo: 14900.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.907637
+E[N]: 8.675333
+E[W]: 4.208710
+Erro de Little: 0.161353
+
+Tempo: 15000.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906723
+E[N]: 8.634757
+E[W]: 4.122102
+Erro de Little: 0.300987
+
+Tempo: 15100.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905882
+E[N]: 8.596681
+E[W]: 3.303530
+Erro de Little: 1.919091
+
+Tempo: 15200.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905597
+E[N]: 8.591619
+E[W]: 4.462543
+Erro de Little: -0.429948
+
+Tempo: 15300.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906344
+E[N]: 8.693367
+E[W]: 3.020935
+Erro de Little: 2.586661
+
+Tempo: 15400.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.906033
+E[N]: 8.679923
+E[W]: 4.183256
+Erro de Little: 0.225422
+
+Tempo: 15500.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905639
+E[N]: 8.645528
+E[W]: 3.884667
+Erro de Little: 0.797623
+
+Tempo: 15600.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905300
+E[N]: 8.619752
+E[W]: 5.032336
+Erro de Little: -1.547450
+
+Tempo: 15700.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905891
+E[N]: 8.692355
+E[W]: 3.210146
+Erro de Little: 2.202014
+
+Tempo: 15800.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904851
+E[N]: 8.650949
+E[W]: 3.982346
+Erro de Little: 0.601574
+
+Tempo: 15900.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905155
+E[N]: 8.639578
+E[W]: 3.042815
+Erro de Little: 2.488573
+
+Tempo: 16000.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904933
+E[N]: 8.617705
+E[W]: 4.069832
+Erro de Little: 0.391349
+
+Tempo: 16100.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905407
+E[N]: 8.610786
+E[W]: 3.313499
+Erro de Little: 1.912181
+
+Tempo: 16200.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905146
+E[N]: 8.585186
+E[W]: 3.551930
+Erro de Little: 1.406666
+
+Tempo: 16300.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905343
+E[N]: 8.562375
+E[W]: 5.783135
+Erro de Little: -3.122708
+
+Tempo: 16400.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905002
+E[N]: 8.555358
+E[W]: 2.664141
+Erro de Little: 3.174962
+
+Tempo: 16500.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.905166
+E[N]: 8.547117
+E[W]: 3.080445
+Erro de Little: 2.324642
+
+Tempo: 16600.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904877
+E[N]: 8.534736
+E[W]: 4.584406
+Erro de Little: -0.718554
+
+Tempo: 16700.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904545
+E[N]: 8.506028
+E[W]: 4.684237
+Erro de Little: -0.949272
+
+Tempo: 16800.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904312
+E[N]: 8.486428
+E[W]: 5.549660
+Erro de Little: -2.705851
+
+Tempo: 16900.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904260
+E[N]: 8.462461
+E[W]: 3.496299
+Erro de Little: 1.409531
+
+Tempo: 17000.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904106
+E[N]: 8.439718
+E[W]: 5.162608
+Erro de Little: -1.973248
+
+Tempo: 17100.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904052
+E[N]: 8.473513
+E[W]: 5.135265
+Erro de Little: -1.889717
+
+Tempo: 17200.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904611
+E[N]: 8.575616
+E[W]: 4.555750
+Erro de Little: -0.615063
+
+Tempo: 17300.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904416
+E[N]: 8.553855
+E[W]: 3.817843
+Erro de Little: 0.852510
+
+Tempo: 17400.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904033
+E[N]: 8.529399
+E[W]: 5.238745
+Erro de Little: -2.030308
+
+Tempo: 17500.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.903480
+E[N]: 8.497331
+E[W]: 3.475919
+Erro de Little: 1.488986
+
+Tempo: 17600.00 s
+Maior tamanho de fila alcançado: 58
+Ocupação: 0.904001
+E[N]: 8.602098
+E[W]: 4.844890
+Erro de Little: -1.174081
+
+Tempo: 17700.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904562
+E[N]: 8.835151
+E[W]: 3.615979
+Erro de Little: 1.538890
+
+Tempo: 17800.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905097
+E[N]: 9.035926
+E[W]: 4.143313
+Erro de Little: 0.677035
+
+Tempo: 17900.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905620
+E[N]: 9.133038
+E[W]: 5.415761
+Erro de Little: -1.794997
+
+Tempo: 18000.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905758
+E[N]: 9.103061
+E[W]: 4.301753
+Erro de Little: 0.422403
+
+Tempo: 18100.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905597
+E[N]: 9.076183
+E[W]: 4.915297
+Erro de Little: -0.843664
+
+Tempo: 18200.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905235
+E[N]: 9.056632
+E[W]: 5.104651
+Erro de Little: -1.241542
+
+Tempo: 18300.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905120
+E[N]: 9.032592
+E[W]: 4.976756
+Erro de Little: -1.003767
+
+Tempo: 18400.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905111
+E[N]: 9.014166
+E[W]: 6.053611
+Erro de Little: -3.198874
+
+Tempo: 18500.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905296
+E[N]: 9.023930
+E[W]: 3.055406
+Erro de Little: 2.860517
+
+Tempo: 18600.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905269
+E[N]: 9.004471
+E[W]: 3.062747
+Erro de Little: 2.827629
+
+Tempo: 18700.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905434
+E[N]: 8.992900
+E[W]: 4.862369
+Erro de Little: -0.812082
+
+Tempo: 18800.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905223
+E[N]: 8.968819
+E[W]: 5.604087
+Erro de Little: -2.333814
+
+Tempo: 18900.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904615
+E[N]: 8.943907
+E[W]: 3.961211
+Erro de Little: 0.954197
+
+Tempo: 19000.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904990
+E[N]: 8.931931
+E[W]: 4.163536
+Erro de Little: 0.531973
+
+Tempo: 19100.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904181
+E[N]: 8.899846
+E[W]: 5.283884
+Erro de Little: -1.753929
+
+Tempo: 19200.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904325
+E[N]: 8.909831
+E[W]: 4.839377
+Erro de Little: -0.851326
+
+Tempo: 19300.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904841
+E[N]: 8.942810
+E[W]: 3.617958
+Erro de Little: 1.644612
+
+Tempo: 19400.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904033
+E[N]: 8.907069
+E[W]: 3.249851
+Erro de Little: 2.357016
+
+Tempo: 19500.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904045
+E[N]: 8.923528
+E[W]: 3.254978
+Erro de Little: 2.362742
+
+Tempo: 19600.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903979
+E[N]: 8.918840
+E[W]: 4.880128
+Erro de Little: -0.918408
+
+Tempo: 19700.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903536
+E[N]: 8.905990
+E[W]: 6.058451
+Erro de Little: -3.299966
+
+Tempo: 19800.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903681
+E[N]: 8.897495
+E[W]: 4.097408
+Erro de Little: 0.642530
+
+Tempo: 19900.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903396
+E[N]: 8.868834
+E[W]: 4.073040
+Erro de Little: 0.666307
+
+Tempo: 20000.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903598
+E[N]: 8.856198
+E[W]: 4.775186
+Erro de Little: -0.762681
+
+Tempo: 20100.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903391
+E[N]: 8.850920
+E[W]: 4.788095
+Erro de Little: -0.792855
+
+Tempo: 20200.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903249
+E[N]: 8.824011
+E[W]: 4.442052
+Erro de Little: -0.126500
+
+Tempo: 20300.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903513
+E[N]: 8.828330
+E[W]: 3.473373
+Erro de Little: 1.827406
+
+Tempo: 20400.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903352
+E[N]: 8.808845
+E[W]: 3.349764
+Erro de Little: 2.055912
+
+Tempo: 20500.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903266
+E[N]: 8.805571
+E[W]: 3.294581
+Erro de Little: 2.166230
+
+Tempo: 20600.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903526
+E[N]: 8.801985
+E[W]: 4.571939
+Erro de Little: -0.410399
+
+Tempo: 20700.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.902927
+E[N]: 8.771583
+E[W]: 4.187058
+Erro de Little: 0.337002
+
+Tempo: 20800.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.902961
+E[N]: 8.747936
+E[W]: 3.890437
+Erro de Little: 0.911292
+
+Tempo: 20900.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903189
+E[N]: 8.743830
+E[W]: 3.561055
+Erro de Little: 1.570174
+
+Tempo: 21000.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.902887
+E[N]: 8.720661
+E[W]: 5.958932
+Erro de Little: -3.279123
+
+Tempo: 21100.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903315
+E[N]: 8.721296
+E[W]: 4.478401
+Erro de Little: -0.298908
+
+Tempo: 21200.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903311
+E[N]: 8.737759
+E[W]: 4.189333
+Erro de Little: 0.301787
+
+Tempo: 21300.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903561
+E[N]: 8.720787
+E[W]: 1.399773
+Erro de Little: 5.901959
+
+Tempo: 21400.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903651
+E[N]: 8.702729
+E[W]: 4.955862
+Erro de Little: -1.274720
+
+Tempo: 21500.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904111
+E[N]: 8.759392
+E[W]: 5.381914
+Erro de Little: -2.079126
+
+Tempo: 21600.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904259
+E[N]: 8.764579
+E[W]: 3.670238
+Erro de Little: 1.372720
+
+Tempo: 21700.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904315
+E[N]: 8.744136
+E[W]: 3.739705
+Erro de Little: 1.210614
+
+Tempo: 21800.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904361
+E[N]: 8.728242
+E[W]: 4.854790
+Erro de Little: -1.053011
+
+Tempo: 21900.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.903780
+E[N]: 8.700574
+E[W]: 4.213406
+Erro de Little: 0.212813
+
+Tempo: 22000.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904226
+E[N]: 8.755667
+E[W]: 4.650472
+Erro de Little: -0.621063
+
+Tempo: 22100.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904650
+E[N]: 8.902527
+E[W]: 4.260279
+Erro de Little: 0.309912
+
+Tempo: 22200.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904456
+E[N]: 8.903657
+E[W]: 4.500601
+Erro de Little: -0.172333
+
+Tempo: 22300.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904504
+E[N]: 8.905679
+E[W]: 5.097474
+Erro de Little: -1.373045
+
+Tempo: 22400.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904554
+E[N]: 8.897941
+E[W]: 5.850169
+Erro de Little: -2.897085
+
+Tempo: 22500.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904584
+E[N]: 8.888430
+E[W]: 4.964672
+Erro de Little: -1.118532
+
+Tempo: 22600.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905019
+E[N]: 8.957663
+E[W]: 3.908011
+Erro de Little: 1.076641
+
+Tempo: 22700.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905203
+E[N]: 8.966541
+E[W]: 2.694011
+Erro de Little: 3.534524
+
+Tempo: 22800.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905558
+E[N]: 8.974604
+E[W]: 4.898594
+Erro de Little: -0.904522
+
+Tempo: 22900.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905901
+E[N]: 8.987744
+E[W]: 3.511653
+Erro de Little: 1.903392
+
+Tempo: 23000.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905667
+E[N]: 8.968654
+E[W]: 4.306450
+Erro de Little: 0.281806
+
+Tempo: 23100.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905476
+E[N]: 8.946741
+E[W]: 3.726661
+Erro de Little: 1.430143
+
+Tempo: 23200.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905484
+E[N]: 8.937123
+E[W]: 3.845080
+Erro de Little: 1.179527
+
+Tempo: 23300.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905931
+E[N]: 9.001996
+E[W]: 3.286059
+Erro de Little: 2.370561
+
+Tempo: 23400.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905778
+E[N]: 8.986570
+E[W]: 3.812519
+Erro de Little: 1.292851
+
+Tempo: 23500.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905678
+E[N]: 8.968990
+E[W]: 2.696030
+Erro de Little: 3.528747
+
+Tempo: 23600.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905361
+E[N]: 8.948206
+E[W]: 3.760552
+Erro de Little: 1.363974
+
+Tempo: 23700.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905541
+E[N]: 8.946031
+E[W]: 4.834783
+Erro de Little: -0.804608
+
+Tempo: 23800.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905949
+E[N]: 8.982928
+E[W]: 4.164294
+Erro de Little: 0.579838
+
+Tempo: 23900.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905781
+E[N]: 8.961311
+E[W]: 5.374160
+Erro de Little: -1.886826
+
+Tempo: 24000.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905168
+E[N]: 8.939882
+E[W]: 5.187845
+Erro de Little: -1.526150
+
+Tempo: 24100.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904993
+E[N]: 8.921901
+E[W]: 4.043516
+Erro de Little: 0.765252
+
+Tempo: 24200.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905084
+E[N]: 8.924829
+E[W]: 2.961180
+Erro de Little: 2.950298
+
+Tempo: 24300.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905409
+E[N]: 8.934673
+E[W]: 4.113253
+Erro de Little: 0.634773
+
+Tempo: 24400.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904734
+E[N]: 8.907374
+E[W]: 3.729460
+Erro de Little: 1.388417
+
+Tempo: 24500.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.904832
+E[N]: 8.902172
+E[W]: 5.070577
+Erro de Little: -1.322373
+
+Tempo: 24600.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905217
+E[N]: 8.928444
+E[W]: 4.008019
+Erro de Little: 0.841435
+
+Tempo: 24700.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905219
+E[N]: 8.934262
+E[W]: 3.226895
+Erro de Little: 2.424296
+
+Tempo: 24800.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905505
+E[N]: 8.983915
+E[W]: 4.985324
+Erro de Little: -1.079399
+
+Tempo: 24900.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.905878
+E[N]: 9.072160
+E[W]: 4.782634
+Erro de Little: -0.584308
+
+Tempo: 25000.00 s
+Maior tamanho de fila alcançado: 65
+Ocupação: 0.906248
+E[N]: 9.188515
+E[W]: 5.291025
+Erro de Little: -1.499546
+
+Tempo: 25100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.906635
+E[N]: 9.352209
+E[W]: 3.837348
+Erro de Little: 1.601306
+
+Tempo: 25200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.906997
+E[N]: 9.427841
+E[W]: 5.910054
+Erro de Little: -2.509565
+
+Tempo: 25300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.906765
+E[N]: 9.414728
+E[W]: 5.134077
+Erro de Little: -0.952192
+
+Tempo: 25400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.906457
+E[N]: 9.394072
+E[W]: 4.237891
+Erro de Little: 0.837883
+
+Tempo: 25500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.906332
+E[N]: 9.374889
+E[W]: 4.213091
+Erro de Little: 0.867043
+
+Tempo: 25600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.906501
+E[N]: 9.385700
+E[W]: 4.237281
+Erro de Little: 0.827390
+
+Tempo: 25700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.906618
+E[N]: 9.376502
+E[W]: 4.208644
+Erro de Little: 0.877250
+
+Tempo: 25800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.906587
+E[N]: 9.364014
+E[W]: 6.381445
+Erro de Little: -3.522000
+
+Tempo: 25900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.906252
+E[N]: 9.341236
+E[W]: 4.986782
+Erro de Little: -0.729357
+
+Tempo: 26000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905908
+E[N]: 9.325139
+E[W]: 5.702891
+Erro de Little: -2.188485
+
+Tempo: 26100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905673
+E[N]: 9.304505
+E[W]: 4.438967
+Erro de Little: 0.345458
+
+Tempo: 26200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905322
+E[N]: 9.282485
+E[W]: 3.183703
+Erro de Little: 2.858872
+
+Tempo: 26300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904964
+E[N]: 9.262445
+E[W]: 4.976537
+Erro de Little: -0.774171
+
+Tempo: 26400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905207
+E[N]: 9.287958
+E[W]: 3.790406
+Erro de Little: 1.641320
+
+Tempo: 26500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905520
+E[N]: 9.352898
+E[W]: 4.154482
+Erro de Little: 0.971361
+
+Tempo: 26600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905072
+E[N]: 9.327572
+E[W]: 5.024118
+Erro de Little: -0.804402
+
+Tempo: 26700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904839
+E[N]: 9.309487
+E[W]: 4.040372
+Erro de Little: 1.163871
+
+Tempo: 26800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904660
+E[N]: 9.292807
+E[W]: 5.881271
+Erro de Little: -2.561554
+
+Tempo: 26900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904276
+E[N]: 9.270764
+E[W]: 2.364377
+Erro de Little: 4.505052
+
+Tempo: 27000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903836
+E[N]: 9.246965
+E[W]: 4.291142
+Erro de Little: 0.600722
+
+Tempo: 27100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903581
+E[N]: 9.233728
+E[W]: 4.998532
+Erro de Little: -0.837539
+
+Tempo: 27200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903706
+E[N]: 9.229619
+E[W]: 4.789656
+Erro de Little: -0.422922
+
+Tempo: 27300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903478
+E[N]: 9.208940
+E[W]: 4.475208
+Erro de Little: 0.190179
+
+Tempo: 27400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903062
+E[N]: 9.183640
+E[W]: 5.330141
+Erro de Little: -1.556154
+
+Tempo: 27500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903138
+E[N]: 9.168140
+E[W]: 5.662611
+Erro de Little: -2.240930
+
+Tempo: 27600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903362
+E[N]: 9.175946
+E[W]: 3.976122
+Erro de Little: 1.165677
+
+Tempo: 27700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903479
+E[N]: 9.198473
+E[W]: 4.808186
+Erro de Little: -0.487662
+
+Tempo: 27800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903735
+E[N]: 9.212214
+E[W]: 4.615707
+Erro de Little: -0.089756
+
+Tempo: 27900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903649
+E[N]: 9.195520
+E[W]: 4.366725
+Erro de Little: 0.393831
+
+Tempo: 28000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903270
+E[N]: 9.173296
+E[W]: 4.030774
+Erro de Little: 1.049902
+
+Tempo: 28100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903143
+E[N]: 9.156824
+E[W]: 3.046860
+Erro de Little: 3.017378
+
+Tempo: 28200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903234
+E[N]: 9.152496
+E[W]: 4.368007
+Erro de Little: 0.351141
+
+Tempo: 28300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903419
+E[N]: 9.147342
+E[W]: 5.372958
+Erro de Little: -1.680490
+
+Tempo: 28400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903048
+E[N]: 9.123788
+E[W]: 5.239484
+Erro de Little: -1.435931
+
+Tempo: 28500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902937
+E[N]: 9.121529
+E[W]: 5.106383
+Erro de Little: -1.167539
+
+Tempo: 28600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903056
+E[N]: 9.117347
+E[W]: 3.231055
+Erro de Little: 2.607884
+
+Tempo: 28700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902613
+E[N]: 9.095919
+E[W]: 7.169982
+Erro de Little: -5.345381
+
+Tempo: 28800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902701
+E[N]: 9.087769
+E[W]: 4.030777
+Erro de Little: 0.969577
+
+Tempo: 28900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902621
+E[N]: 9.077779
+E[W]: 5.176966
+Erro de Little: -1.348993
+
+Tempo: 29000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902849
+E[N]: 9.106957
+E[W]: 5.015698
+Erro de Little: -1.000869
+
+Tempo: 29100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903074
+E[N]: 9.120876
+E[W]: 5.185141
+Erro de Little: -1.326453
+
+Tempo: 29200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903381
+E[N]: 9.133899
+E[W]: 4.145795
+Erro de Little: 0.778575
+
+Tempo: 29300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903575
+E[N]: 9.132528
+E[W]: 3.771202
+Erro de Little: 1.533238
+
+Tempo: 29400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903436
+E[N]: 9.116575
+E[W]: 3.153452
+Erro de Little: 2.764036
+
+Tempo: 29500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903619
+E[N]: 9.114123
+E[W]: 3.938409
+Erro de Little: 1.182154
+
+Tempo: 29600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903652
+E[N]: 9.109172
+E[W]: 3.899787
+Erro de Little: 1.253913
+
+Tempo: 29700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903554
+E[N]: 9.094248
+E[W]: 4.156284
+Erro de Little: 0.724638
+
+Tempo: 29800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903859
+E[N]: 9.098956
+E[W]: 3.956259
+Erro de Little: 1.131501
+
+Tempo: 29900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904180
+E[N]: 9.121659
+E[W]: 4.280363
+Erro de Little: 0.500545
+
+Tempo: 30000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904513
+E[N]: 9.156774
+E[W]: 3.367083
+Erro de Little: 2.374205
+
+Tempo: 30100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904631
+E[N]: 9.155792
+E[W]: 3.462602
+Erro de Little: 2.181535
+
+Tempo: 30200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904447
+E[N]: 9.137221
+E[W]: 4.845153
+Erro de Little: -0.619980
+
+Tempo: 30300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904295
+E[N]: 9.138018
+E[W]: 4.419789
+Erro de Little: 0.236164
+
+Tempo: 30400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904586
+E[N]: 9.150224
+E[W]: 3.995535
+Erro de Little: 1.103572
+
+Tempo: 30500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904929
+E[N]: 9.161684
+E[W]: 3.491581
+Erro de Little: 2.131075
+
+Tempo: 30600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905224
+E[N]: 9.179577
+E[W]: 3.839004
+Erro de Little: 1.448260
+
+Tempo: 30700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905191
+E[N]: 9.178003
+E[W]: 5.552344
+Erro de Little: -2.004195
+
+Tempo: 30800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904865
+E[N]: 9.159550
+E[W]: 6.292823
+Erro de Little: -3.511420
+
+Tempo: 30900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904936
+E[N]: 9.196485
+E[W]: 5.191556
+Erro de Little: -1.258019
+
+Tempo: 31000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905259
+E[N]: 9.255644
+E[W]: 5.914814
+Erro de Little: -2.656188
+
+Tempo: 31100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905560
+E[N]: 9.267502
+E[W]: 4.928215
+Erro de Little: -0.658726
+
+Tempo: 31200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905614
+E[N]: 9.270887
+E[W]: 5.627624
+Erro de Little: -2.064510
+
+Tempo: 31300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905276
+E[N]: 9.255704
+E[W]: 5.286572
+Erro de Little: -1.390585
+
+Tempo: 31400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905397
+E[N]: 9.248972
+E[W]: 4.500487
+Erro de Little: 0.187227
+
+Tempo: 31500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905413
+E[N]: 9.234427
+E[W]: 4.837228
+Erro de Little: -0.505900
+
+Tempo: 31600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905716
+E[N]: 9.262355
+E[W]: 3.775611
+Erro de Little: 1.658803
+
+Tempo: 31700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905360
+E[N]: 9.245148
+E[W]: 3.862276
+Erro de Little: 1.470171
+
+Tempo: 31800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905250
+E[N]: 9.237242
+E[W]: 5.141548
+Erro de Little: -1.110645
+
+Tempo: 31900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905201
+E[N]: 9.229937
+E[W]: 2.759441
+Erro de Little: 3.674974
+
+Tempo: 32000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905091
+E[N]: 9.240691
+E[W]: 5.559265
+Erro de Little: -1.948673
+
+Tempo: 32100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905024
+E[N]: 9.242976
+E[W]: 5.289268
+Erro de Little: -1.403390
+
+Tempo: 32200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905062
+E[N]: 9.245231
+E[W]: 4.870484
+Erro de Little: -0.559948
+
+Tempo: 32300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905131
+E[N]: 9.237205
+E[W]: 5.119760
+Erro de Little: -1.069206
+
+Tempo: 32400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905093
+E[N]: 9.228926
+E[W]: 5.373459
+Erro de Little: -1.588773
+
+Tempo: 32500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905398
+E[N]: 9.284633
+E[W]: 3.203487
+Erro de Little: 2.834460
+
+Tempo: 32600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905707
+E[N]: 9.339851
+E[W]: 5.864267
+Erro de Little: -2.466310
+
+Tempo: 32700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905963
+E[N]: 9.371007
+E[W]: 5.178664
+Erro de Little: -1.058142
+
+Tempo: 32800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905947
+E[N]: 9.371136
+E[W]: 4.845275
+Erro de Little: -0.386168
+
+Tempo: 32900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905837
+E[N]: 9.352860
+E[W]: 5.248494
+Erro de Little: -1.218732
+
+Tempo: 33000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905764
+E[N]: 9.343546
+E[W]: 5.389664
+Erro de Little: -1.511809
+
+Tempo: 33100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905171
+E[N]: 9.320646
+E[W]: 6.339143
+Erro de Little: -3.446287
+
+Tempo: 33200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905224
+E[N]: 9.314937
+E[W]: 5.027199
+Erro de Little: -0.809038
+
+Tempo: 33300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905290
+E[N]: 9.307606
+E[W]: 3.941239
+Erro de Little: 1.373423
+
+Tempo: 33400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904720
+E[N]: 9.286818
+E[W]: 4.932375
+Erro de Little: -0.639044
+
+Tempo: 33500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904655
+E[N]: 9.279625
+E[W]: 5.210135
+Erro de Little: -1.204505
+
+Tempo: 33600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904499
+E[N]: 9.268156
+E[W]: 3.761285
+Erro de Little: 1.700602
+
+Tempo: 33700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904587
+E[N]: 9.257457
+E[W]: 4.143409
+Erro de Little: 0.923429
+
+Tempo: 33800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904440
+E[N]: 9.242046
+E[W]: 5.136026
+Erro de Little: -1.087512
+
+Tempo: 33900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904704
+E[N]: 9.266618
+E[W]: 6.900541
+Erro de Little: -4.613439
+
+Tempo: 34000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904971
+E[N]: 9.317029
+E[W]: 3.105440
+Erro de Little: 3.069817
+
+Tempo: 34100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905190
+E[N]: 9.335461
+E[W]: 2.002150
+Erro de Little: 5.307861
+
+Tempo: 34200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905035
+E[N]: 9.316226
+E[W]: 5.244235
+Erro de Little: -1.233718
+
+Tempo: 34300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904617
+E[N]: 9.295669
+E[W]: 4.262153
+Erro de Little: 0.723079
+
+Tempo: 34400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904886
+E[N]: 9.308195
+E[W]: 4.529817
+Erro de Little: 0.193124
+
+Tempo: 34500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905155
+E[N]: 9.334708
+E[W]: 3.707156
+Erro de Little: 1.873721
+
+Tempo: 34600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905409
+E[N]: 9.359847
+E[W]: 5.329324
+Erro de Little: -1.363326
+
+Tempo: 34700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905682
+E[N]: 9.371626
+E[W]: 4.118912
+Erro de Little: 1.082891
+
+Tempo: 34800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905784
+E[N]: 9.366824
+E[W]: 3.790693
+Erro de Little: 1.738103
+
+Tempo: 34900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905824
+E[N]: 9.360091
+E[W]: 4.343505
+Erro de Little: 0.621608
+
+Tempo: 35000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905754
+E[N]: 9.345836
+E[W]: 4.004058
+Erro de Little: 1.289548
+
+Tempo: 35100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905610
+E[N]: 9.332091
+E[W]: 4.176403
+Erro de Little: 0.929799
+
+Tempo: 35200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905668
+E[N]: 9.330170
+E[W]: 4.493670
+Erro de Little: 0.290131
+
+Tempo: 35300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905617
+E[N]: 9.314110
+E[W]: 5.209470
+Erro de Little: -1.164078
+
+Tempo: 35400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905460
+E[N]: 9.297686
+E[W]: 4.479085
+Erro de Little: 0.290183
+
+Tempo: 35500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905166
+E[N]: 9.281918
+E[W]: 4.811338
+Erro de Little: -0.390314
+
+Tempo: 35600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905234
+E[N]: 9.275529
+E[W]: 5.193193
+Erro de Little: -1.165266
+
+Tempo: 35700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905098
+E[N]: 9.260025
+E[W]: 5.556477
+Erro de Little: -1.912993
+
+Tempo: 35800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905201
+E[N]: 9.251746
+E[W]: 3.751871
+Erro de Little: 1.705918
+
+Tempo: 35900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905127
+E[N]: 9.245889
+E[W]: 4.461934
+Erro de Little: 0.273581
+
+Tempo: 36000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904969
+E[N]: 9.229977
+E[W]: 3.509914
+Erro de Little: 2.173502
+
+Tempo: 36100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905114
+E[N]: 9.252180
+E[W]: 3.823395
+Erro de Little: 1.563369
+
+Tempo: 36200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905357
+E[N]: 9.265964
+E[W]: 5.428267
+Erro de Little: -1.647489
+
+Tempo: 36300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905400
+E[N]: 9.250329
+E[W]: 3.148968
+Erro de Little: 2.918930
+
+Tempo: 36400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905458
+E[N]: 9.237212
+E[W]: 5.568433
+Erro de Little: -1.960627
+
+Tempo: 36500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905742
+E[N]: 9.243758
+E[W]: 4.636738
+Erro de Little: -0.081800
+
+Tempo: 36600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905474
+E[N]: 9.224781
+E[W]: 5.552704
+Erro de Little: -1.940792
+
+Tempo: 36700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905338
+E[N]: 9.217199
+E[W]: 5.164868
+Erro de Little: -1.170220
+
+Tempo: 36800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905230
+E[N]: 9.199616
+E[W]: 2.338170
+Erro de Little: 4.497007
+
+Tempo: 36900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905220
+E[N]: 9.199183
+E[W]: 4.323741
+Erro de Little: 0.503563
+
+Tempo: 37000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905385
+E[N]: 9.200978
+E[W]: 4.741708
+Erro de Little: -0.336514
+
+Tempo: 37100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905330
+E[N]: 9.187532
+E[W]: 4.883714
+Erro de Little: -0.633573
+
+Tempo: 37200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904891
+E[N]: 9.168392
+E[W]: 5.623323
+Erro de Little: -2.137782
+
+Tempo: 37300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904589
+E[N]: 9.149895
+E[W]: 5.252562
+Erro de Little: -1.411191
+
+Tempo: 37400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904509
+E[N]: 9.145591
+E[W]: 4.772495
+Erro de Little: -0.450668
+
+Tempo: 37500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904587
+E[N]: 9.171939
+E[W]: 3.992015
+Erro de Little: 1.142351
+
+Tempo: 37600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904838
+E[N]: 9.248826
+E[W]: 3.906921
+Erro de Little: 1.387717
+
+Tempo: 37700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905097
+E[N]: 9.291618
+E[W]: 4.079063
+Erro de Little: 1.081455
+
+Tempo: 37800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905342
+E[N]: 9.318862
+E[W]: 4.196644
+Erro de Little: 0.872510
+
+Tempo: 37900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905305
+E[N]: 9.310042
+E[W]: 3.960601
+Erro de Little: 1.339913
+
+Tempo: 38000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905550
+E[N]: 9.341328
+E[W]: 5.423367
+Erro de Little: -1.573448
+
+Tempo: 38100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905745
+E[N]: 9.341259
+E[W]: 5.052872
+Erro de Little: -0.829279
+
+Tempo: 38200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905695
+E[N]: 9.334961
+E[W]: 5.422846
+Erro de Little: -1.579335
+
+Tempo: 38300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905211
+E[N]: 9.320931
+E[W]: 5.702710
+Erro de Little: -2.152640
+
+Tempo: 38400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904952
+E[N]: 9.313330
+E[W]: 5.460296
+Erro de Little: -1.671243
+
+Tempo: 38500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904911
+E[N]: 9.312438
+E[W]: 3.596415
+Erro de Little: 2.078115
+
+Tempo: 38600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904676
+E[N]: 9.299829
+E[W]: 5.848764
+Erro de Little: -2.464611
+
+Tempo: 38700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904913
+E[N]: 9.330246
+E[W]: 6.363906
+Erro de Little: -3.475984
+
+Tempo: 38800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904954
+E[N]: 9.333447
+E[W]: 5.808828
+Erro de Little: -2.351041
+
+Tempo: 38900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904956
+E[N]: 9.333365
+E[W]: 3.980041
+Erro de Little: 1.327872
+
+Tempo: 39000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904775
+E[N]: 9.318827
+E[W]: 5.452559
+Erro de Little: -1.647767
+
+Tempo: 39100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904549
+E[N]: 9.304308
+E[W]: 5.071319
+Erro de Little: -0.894456
+
+Tempo: 39200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904283
+E[N]: 9.288476
+E[W]: 5.025174
+Erro de Little: -0.817192
+
+Tempo: 39300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904202
+E[N]: 9.275612
+E[W]: 4.925000
+Erro de Little: -0.626842
+
+Tempo: 39400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904202
+E[N]: 9.271923
+E[W]: 5.467847
+Erro de Little: -1.721898
+
+Tempo: 39500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904416
+E[N]: 9.278430
+E[W]: 3.417707
+Erro de Little: 2.406166
+
+Tempo: 39600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904142
+E[N]: 9.262614
+E[W]: 5.185272
+Erro de Little: -1.162817
+
+Tempo: 39700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904329
+E[N]: 9.266240
+E[W]: 4.031599
+Erro de Little: 1.158533
+
+Tempo: 39800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904565
+E[N]: 9.283742
+E[W]: 4.855284
+Erro de Little: -0.482532
+
+Tempo: 39900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904731
+E[N]: 9.340309
+E[W]: 4.078085
+Erro de Little: 1.133135
+
+Tempo: 40000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904968
+E[N]: 9.451323
+E[W]: 4.347690
+Erro de Little: 0.701954
+
+Tempo: 40100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905198
+E[N]: 9.523921
+E[W]: 3.604964
+Erro de Little: 2.269708
+
+Tempo: 40200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905345
+E[N]: 9.529859
+E[W]: 5.886813
+Erro de Little: -2.317227
+
+Tempo: 40300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905593
+E[N]: 9.529916
+E[W]: 4.364141
+Erro de Little: 0.747440
+
+Tempo: 40400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905472
+E[N]: 9.519683
+E[W]: 3.108252
+Erro de Little: 3.264991
+
+Tempo: 40500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905460
+E[N]: 9.516049
+E[W]: 3.720856
+Erro de Little: 2.027991
+
+Tempo: 40600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905510
+E[N]: 9.510843
+E[W]: 4.450752
+Erro de Little: 0.552669
+
+Tempo: 40700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905479
+E[N]: 9.501060
+E[W]: 4.321414
+Erro de Little: 0.804198
+
+Tempo: 40800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905516
+E[N]: 9.495676
+E[W]: 4.156433
+Erro de Little: 1.131669
+
+Tempo: 40900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905565
+E[N]: 9.482747
+E[W]: 5.414999
+Erro de Little: -1.415164
+
+Tempo: 41000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905422
+E[N]: 9.472967
+E[W]: 4.959375
+Erro de Little: -0.508399
+
+Tempo: 41100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905654
+E[N]: 9.507424
+E[W]: 4.900001
+Erro de Little: -0.357167
+
+Tempo: 41200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905763
+E[N]: 9.512808
+E[W]: 3.977461
+Erro de Little: 1.505419
+
+Tempo: 41300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905755
+E[N]: 9.503817
+E[W]: 5.834691
+Erro de Little: -2.241639
+
+Tempo: 41400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905371
+E[N]: 9.486603
+E[W]: 4.306272
+Erro de Little: 0.820661
+
+Tempo: 41500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905377
+E[N]: 9.473806
+E[W]: 3.961207
+Erro de Little: 1.500905
+
+Tempo: 41600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904956
+E[N]: 9.456622
+E[W]: 3.782525
+Erro de Little: 1.844680
+
+Tempo: 41700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904773
+E[N]: 9.440072
+E[W]: 5.811988
+Erro de Little: -2.253904
+
+Tempo: 41800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904558
+E[N]: 9.427974
+E[W]: 3.871035
+Erro de Little: 1.640446
+
+Tempo: 41900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904521
+E[N]: 9.417964
+E[W]: 4.559476
+Erro de Little: 0.246477
+
+Tempo: 42000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904334
+E[N]: 9.402834
+E[W]: 5.764880
+Erro de Little: -2.191770
+
+Tempo: 42100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904495
+E[N]: 9.399593
+E[W]: 5.492301
+Erro de Little: -1.647483
+
+Tempo: 42200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904374
+E[N]: 9.387858
+E[W]: 4.586344
+Erro de Little: 0.163659
+
+Tempo: 42300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904097
+E[N]: 9.372863
+E[W]: 4.783696
+Erro de Little: -0.246642
+
+Tempo: 42400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904141
+E[N]: 9.370405
+E[W]: 4.860554
+Erro de Little: -0.404778
+
+Tempo: 42500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904029
+E[N]: 9.358095
+E[W]: 6.140702
+Erro de Little: -2.992253
+
+Tempo: 42600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904163
+E[N]: 9.352382
+E[W]: 4.477467
+Erro de Little: 0.347128
+
+Tempo: 42700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904230
+E[N]: 9.350364
+E[W]: 4.449868
+Erro de Little: 0.400403
+
+Tempo: 42800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904315
+E[N]: 9.340814
+E[W]: 5.239283
+Erro de Little: -1.195419
+
+Tempo: 42900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904169
+E[N]: 9.332267
+E[W]: 4.052298
+Erro de Little: 1.186026
+
+Tempo: 43000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904163
+E[N]: 9.320746
+E[W]: 5.194028
+Erro de Little: -1.121367
+
+Tempo: 43100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904108
+E[N]: 9.322110
+E[W]: 4.253004
+Erro de Little: 0.773020
+
+Tempo: 43200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903704
+E[N]: 9.305718
+E[W]: 4.454957
+Erro de Little: 0.351571
+
+Tempo: 43300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903430
+E[N]: 9.291322
+E[W]: 4.309152
+Erro de Little: 0.631921
+
+Tempo: 43400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903441
+E[N]: 9.278003
+E[W]: 5.206394
+Erro de Little: -1.181556
+
+Tempo: 43500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903676
+E[N]: 9.293300
+E[W]: 4.360858
+Erro de Little: 0.530127
+
+Tempo: 43600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903780
+E[N]: 9.295141
+E[W]: 4.367132
+Erro de Little: 0.519851
+
+Tempo: 43700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903822
+E[N]: 9.285380
+E[W]: 4.347612
+Erro de Little: 0.550084
+
+Tempo: 43800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903840
+E[N]: 9.274044
+E[W]: 3.783538
+Erro de Little: 1.672790
+
+Tempo: 43900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903691
+E[N]: 9.262113
+E[W]: 5.608016
+Erro de Little: -2.003050
+
+Tempo: 44000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903902
+E[N]: 9.272890
+E[W]: 4.252325
+Erro de Little: 0.728436
+
+Tempo: 44100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903972
+E[N]: 9.273060
+E[W]: 5.836442
+Erro de Little: -2.453466
+
+Tempo: 44200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903888
+E[N]: 9.259512
+E[W]: 6.521273
+Erro de Little: -3.842774
+
+Tempo: 44300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903955
+E[N]: 9.256558
+E[W]: 3.317603
+Erro de Little: 2.591244
+
+Tempo: 44400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904124
+E[N]: 9.256463
+E[W]: 5.051901
+Erro de Little: -0.892882
+
+Tempo: 44500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904012
+E[N]: 9.243847
+E[W]: 5.197057
+Erro de Little: -1.196089
+
+Tempo: 44600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904151
+E[N]: 9.237997
+E[W]: 3.659976
+Erro de Little: 1.886025
+
+Tempo: 44700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904022
+E[N]: 9.230230
+E[W]: 5.109934
+Erro de Little: -1.036160
+
+Tempo: 44800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904136
+E[N]: 9.231615
+E[W]: 4.922467
+Erro de Little: -0.656925
+
+Tempo: 44900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903944
+E[N]: 9.221691
+E[W]: 4.807370
+Erro de Little: -0.435227
+
+Tempo: 45000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904154
+E[N]: 9.246007
+E[W]: 4.244287
+Erro de Little: 0.718680
+
+Tempo: 45100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904378
+E[N]: 9.268801
+E[W]: 4.686952
+Erro de Little: -0.147293
+
+Tempo: 45200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904260
+E[N]: 9.257009
+E[W]: 3.864515
+Erro de Little: 1.492854
+
+Tempo: 45300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904419
+E[N]: 9.257666
+E[W]: 5.170382
+Erro de Little: -1.132236
+
+Tempo: 45400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904523
+E[N]: 9.255306
+E[W]: 5.209708
+Erro de Little: -1.214803
+
+Tempo: 45500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904708
+E[N]: 9.261323
+E[W]: 6.637341
+Erro de Little: -4.075893
+
+Tempo: 45600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904918
+E[N]: 9.285070
+E[W]: 4.323341
+Erro de Little: 0.594994
+
+Tempo: 45700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905125
+E[N]: 9.361523
+E[W]: 5.113455
+Erro de Little: -0.919781
+
+Tempo: 45800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905340
+E[N]: 9.408238
+E[W]: 4.444967
+Erro de Little: 0.470186
+
+Tempo: 45900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905202
+E[N]: 9.395363
+E[W]: 5.691994
+Erro de Little: -2.049573
+
+Tempo: 46000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905284
+E[N]: 9.393920
+E[W]: 5.221863
+Erro de Little: -1.106357
+
+Tempo: 46100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905181
+E[N]: 9.387899
+E[W]: 5.748830
+Erro de Little: -2.171713
+
+Tempo: 46200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905323
+E[N]: 9.388372
+E[W]: 4.761255
+Erro de Little: -0.185349
+
+Tempo: 46300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905342
+E[N]: 9.378855
+E[W]: 4.328342
+Erro de Little: 0.675150
+
+Tempo: 46400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905159
+E[N]: 9.367264
+E[W]: 5.498609
+Erro de Little: -1.688170
+
+Tempo: 46500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904875
+E[N]: 9.353558
+E[W]: 5.311728
+Erro de Little: -1.324344
+
+Tempo: 46600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904743
+E[N]: 9.344473
+E[W]: 5.045485
+Erro de Little: -0.796920
+
+Tempo: 46700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904935
+E[N]: 9.341868
+E[W]: 5.479316
+Erro de Little: -1.672109
+
+Tempo: 46800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905071
+E[N]: 9.337969
+E[W]: 5.555366
+Erro de Little: -1.830521
+
+Tempo: 46900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905212
+E[N]: 9.343744
+E[W]: 4.201305
+Erro de Little: 0.896815
+
+Tempo: 47000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905151
+E[N]: 9.333686
+E[W]: 1.920665
+Erro de Little: 5.472378
+
+Tempo: 47100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905009
+E[N]: 9.320351
+E[W]: 3.198788
+Erro de Little: 2.890180
+
+Tempo: 47200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905131
+E[N]: 9.316009
+E[W]: 4.803435
+Erro de Little: -0.343343
+
+Tempo: 47300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904982
+E[N]: 9.305865
+E[W]: 4.064852
+Erro de Little: 1.133247
+
+Tempo: 47400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905091
+E[N]: 9.309165
+E[W]: 5.256663
+Erro de Little: -1.261459
+
+Tempo: 47500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.905014
+E[N]: 9.301657
+E[W]: 7.263053
+Erro de Little: -5.302240
+
+Tempo: 47600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904948
+E[N]: 9.295821
+E[W]: 5.087656
+Erro de Little: -0.934517
+
+Tempo: 47700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904805
+E[N]: 9.285827
+E[W]: 3.600206
+Erro de Little: 2.046643
+
+Tempo: 47800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904262
+E[N]: 9.271335
+E[W]: 4.891711
+Erro de Little: -0.561565
+
+Tempo: 47900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904350
+E[N]: 9.278588
+E[W]: 2.751171
+Erro de Little: 3.748572
+
+Tempo: 48000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904341
+E[N]: 9.269475
+E[W]: 4.381802
+Erro de Little: 0.462618
+
+Tempo: 48100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904257
+E[N]: 9.259310
+E[W]: 3.648351
+Erro de Little: 1.926495
+
+Tempo: 48200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904137
+E[N]: 9.251361
+E[W]: 3.019251
+Erro de Little: 3.183192
+
+Tempo: 48300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903854
+E[N]: 9.237018
+E[W]: 4.177602
+Erro de Little: 0.840968
+
+Tempo: 48400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904035
+E[N]: 9.235341
+E[W]: 4.007613
+Erro de Little: 1.181143
+
+Tempo: 48500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904209
+E[N]: 9.233216
+E[W]: 4.241421
+Erro de Little: 0.709009
+
+Tempo: 48600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904161
+E[N]: 9.221683
+E[W]: 6.177873
+Erro de Little: -3.191712
+
+Tempo: 48700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904009
+E[N]: 9.210556
+E[W]: 4.882634
+Erro de Little: -0.600722
+
+Tempo: 48800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904087
+E[N]: 9.204214
+E[W]: 4.375446
+Erro de Little: 0.412100
+
+Tempo: 48900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904076
+E[N]: 9.199413
+E[W]: 4.958394
+Erro de Little: -0.764100
+
+Tempo: 49000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904235
+E[N]: 9.217025
+E[W]: 3.492842
+Erro de Little: 2.195850
+
+Tempo: 49100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904380
+E[N]: 9.226728
+E[W]: 4.526772
+Erro de Little: 0.127462
+
+Tempo: 49200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904078
+E[N]: 9.213200
+E[W]: 5.142350
+Erro de Little: -1.121354
+
+Tempo: 49300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903969
+E[N]: 9.204445
+E[W]: 3.460894
+Erro de Little: 2.248084
+
+Tempo: 49400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904165
+E[N]: 9.222175
+E[W]: 2.712484
+Erro de Little: 3.770598
+
+Tempo: 49500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904164
+E[N]: 9.211735
+E[W]: 4.076273
+Erro de Little: 1.020084
+
+Tempo: 49600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904026
+E[N]: 9.200907
+E[W]: 5.427623
+Erro de Little: -1.705162
+
+Tempo: 49700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903976
+E[N]: 9.191384
+E[W]: 4.293588
+Erro de Little: 0.565435
+
+Tempo: 49800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904138
+E[N]: 9.187835
+E[W]: 3.774995
+Erro de Little: 1.603505
+
+Tempo: 49900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904042
+E[N]: 9.176073
+E[W]: 4.239616
+Erro de Little: 0.658658
+
+Tempo: 50000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903878
+E[N]: 9.168042
+E[W]: 5.102326
+Erro de Little: -1.082269
+
+Tempo: 50100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903830
+E[N]: 9.160413
+E[W]: 5.742237
+Erro de Little: -2.374457
+
+Tempo: 50200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903787
+E[N]: 9.153437
+E[W]: 4.954753
+Erro de Little: -0.802533
+
+Tempo: 50300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903700
+E[N]: 9.144848
+E[W]: 3.892990
+Erro de Little: 1.323113
+
+Tempo: 50400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903829
+E[N]: 9.156228
+E[W]: 3.953491
+Erro de Little: 1.212467
+
+Tempo: 50500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.904008
+E[N]: 9.172007
+E[W]: 3.976193
+Erro de Little: 1.181330
+
+Tempo: 50600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903829
+E[N]: 9.163138
+E[W]: 3.726679
+Erro de Little: 1.674301
+
+Tempo: 50700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903797
+E[N]: 9.157295
+E[W]: 4.792081
+Erro de Little: -0.472309
+
+Tempo: 50800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903439
+E[N]: 9.144253
+E[W]: 5.042107
+Erro de Little: -0.985270
+
+Tempo: 50900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903314
+E[N]: 9.133605
+E[W]: 2.207276
+Erro de Little: 4.699941
+
+Tempo: 51000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903227
+E[N]: 9.122993
+E[W]: 3.796079
+Erro de Little: 1.497591
+
+Tempo: 51100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903232
+E[N]: 9.117071
+E[W]: 4.144828
+Erro de Little: 0.790030
+
+Tempo: 51200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903110
+E[N]: 9.111303
+E[W]: 3.929354
+Erro de Little: 1.217185
+
+Tempo: 51300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903018
+E[N]: 9.100519
+E[W]: 5.147503
+Erro de Little: -1.239931
+
+Tempo: 51400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903000
+E[N]: 9.093396
+E[W]: 3.917555
+Erro de Little: 1.223494
+
+Tempo: 51500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903010
+E[N]: 9.084221
+E[W]: 3.633317
+Erro de Little: 1.784163
+
+Tempo: 51600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903187
+E[N]: 9.102292
+E[W]: 4.882652
+Erro de Little: -0.708209
+
+Tempo: 51700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902868
+E[N]: 9.089662
+E[W]: 3.852103
+Erro de Little: 1.351261
+
+Tempo: 51800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903002
+E[N]: 9.084789
+E[W]: 4.183716
+Erro de Little: 0.678386
+
+Tempo: 51900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903177
+E[N]: 9.098272
+E[W]: 3.460965
+Erro de Little: 2.143292
+
+Tempo: 52000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902926
+E[N]: 9.087692
+E[W]: 5.536911
+Erro de Little: -2.037254
+
+Tempo: 52100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902933
+E[N]: 9.093588
+E[W]: 5.476561
+Erro de Little: -1.911316
+
+Tempo: 52200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903113
+E[N]: 9.108839
+E[W]: 6.277710
+Erro de Little: -3.506864
+
+Tempo: 52300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903105
+E[N]: 9.109871
+E[W]: 5.478061
+Erro de Little: -1.897931
+
+Tempo: 52400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903266
+E[N]: 9.122391
+E[W]: 3.560492
+Erro de Little: 1.967117
+
+Tempo: 52500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903411
+E[N]: 9.118760
+E[W]: 4.783543
+Erro de Little: -0.494863
+
+Tempo: 52600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903473
+E[N]: 9.132238
+E[W]: 3.917098
+Erro de Little: 1.257982
+
+Tempo: 52700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903393
+E[N]: 9.123717
+E[W]: 4.009065
+Erro de Little: 1.065429
+
+Tempo: 52800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903179
+E[N]: 9.113144
+E[W]: 4.040837
+Erro de Little: 0.991686
+
+Tempo: 52900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903250
+E[N]: 9.110021
+E[W]: 4.081294
+Erro de Little: 0.908550
+
+Tempo: 53000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903187
+E[N]: 9.100936
+E[W]: 4.089830
+Erro de Little: 0.882067
+
+Tempo: 53100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903138
+E[N]: 9.092057
+E[W]: 6.175165
+Erro de Little: -3.317767
+
+Tempo: 53200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903221
+E[N]: 9.099179
+E[W]: 4.225694
+Erro de Little: 0.606276
+
+Tempo: 53300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903174
+E[N]: 9.091658
+E[W]: 4.381414
+Erro de Little: 0.287324
+
+Tempo: 53400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.903078
+E[N]: 9.086165
+E[W]: 3.554953
+Erro de Little: 1.942328
+
+Tempo: 53500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902904
+E[N]: 9.077332
+E[W]: 4.237788
+Erro de Little: 0.561523
+
+Tempo: 53600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902924
+E[N]: 9.078988
+E[W]: 4.816857
+Erro de Little: -0.598554
+
+Tempo: 53700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902788
+E[N]: 9.067095
+E[W]: 5.307889
+Erro de Little: -1.597588
+
+Tempo: 53800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902780
+E[N]: 9.066952
+E[W]: 5.201185
+Erro de Little: -1.382277
+
+Tempo: 53900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902564
+E[N]: 9.058015
+E[W]: 4.151391
+Erro de Little: 0.717465
+
+Tempo: 54000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902496
+E[N]: 9.051604
+E[W]: 3.887485
+Erro de Little: 1.242173
+
+Tempo: 54100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.902200
+E[N]: 9.038846
+E[W]: 5.402538
+Erro de Little: -1.811765
+
+Tempo: 54200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901883
+E[N]: 9.027176
+E[W]: 5.455054
+Erro de Little: -1.925011
+
+Tempo: 54300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901861
+E[N]: 9.025439
+E[W]: 5.821282
+Erro de Little: -2.660362
+
+Tempo: 54400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901598
+E[N]: 9.012936
+E[W]: 4.194635
+Erro de Little: 0.595411
+
+Tempo: 54500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901368
+E[N]: 9.000712
+E[W]: 4.921262
+Erro de Little: -0.875020
+
+Tempo: 54600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901528
+E[N]: 9.019148
+E[W]: 2.815224
+Erro de Little: 3.368113
+
+Tempo: 54700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901716
+E[N]: 9.048625
+E[W]: 4.310718
+Erro de Little: 0.396305
+
+Tempo: 54800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901916
+E[N]: 9.058215
+E[W]: 5.304755
+Erro de Little: -1.589136
+
+Tempo: 54900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901979
+E[N]: 9.057267
+E[W]: 3.729871
+Erro de Little: 1.570503
+
+Tempo: 55000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901919
+E[N]: 9.046980
+E[W]: 5.111822
+Erro de Little: -1.211764
+
+Tempo: 55100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901754
+E[N]: 9.036975
+E[W]: 4.675378
+Erro de Little: -0.345069
+
+Tempo: 55200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901928
+E[N]: 9.037798
+E[W]: 4.641827
+Erro de Little: -0.276968
+
+Tempo: 55300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901687
+E[N]: 9.025652
+E[W]: 4.035830
+Erro de Little: 0.927913
+
+Tempo: 55400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901412
+E[N]: 9.013319
+E[W]: 5.313312
+Erro de Little: -1.645767
+
+Tempo: 55500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901320
+E[N]: 9.004113
+E[W]: 5.753819
+Erro de Little: -2.538432
+
+Tempo: 55600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901189
+E[N]: 8.993321
+E[W]: 4.962376
+Erro de Little: -0.961149
+
+Tempo: 55700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901022
+E[N]: 8.982395
+E[W]: 5.106677
+Erro de Little: -1.260306
+
+Tempo: 55800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900854
+E[N]: 8.971361
+E[W]: 5.342806
+Erro de Little: -1.744797
+
+Tempo: 55900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900875
+E[N]: 8.963358
+E[W]: 4.126483
+Erro de Little: 0.686203
+
+Tempo: 56000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900869
+E[N]: 8.956834
+E[W]: 5.720961
+Erro de Little: -2.517367
+
+Tempo: 56100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900793
+E[N]: 8.950680
+E[W]: 5.602478
+Erro de Little: -2.287486
+
+Tempo: 56200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900833
+E[N]: 8.949404
+E[W]: 3.057394
+Erro de Little: 2.817473
+
+Tempo: 56300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900898
+E[N]: 8.943961
+E[W]: 5.383945
+Erro de Little: -1.854401
+
+Tempo: 56400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900897
+E[N]: 8.936851
+E[W]: 4.676946
+Erro de Little: -0.443820
+
+Tempo: 56500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900896
+E[N]: 8.935961
+E[W]: 6.552716
+Erro de Little: -4.208379
+
+Tempo: 56600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900871
+E[N]: 8.931411
+E[W]: 4.739997
+Erro de Little: -0.577540
+
+Tempo: 56700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900872
+E[N]: 8.932286
+E[W]: 6.370286
+Erro de Little: -3.846016
+
+Tempo: 56800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901022
+E[N]: 8.939287
+E[W]: 5.250131
+Erro de Little: -1.593956
+
+Tempo: 56900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901011
+E[N]: 8.938579
+E[W]: 4.705724
+Erro de Little: -0.502221
+
+Tempo: 57000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901011
+E[N]: 8.935360
+E[W]: 5.155767
+Erro de Little: -1.407337
+
+Tempo: 57100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901183
+E[N]: 8.953830
+E[W]: 5.229271
+Erro de Little: -1.535732
+
+Tempo: 57200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.901033
+E[N]: 8.943680
+E[W]: 4.916820
+Erro de Little: -0.915747
+
+Tempo: 57300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900867
+E[N]: 8.934669
+E[W]: 5.233488
+Erro de Little: -1.560404
+
+Tempo: 57400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900675
+E[N]: 8.923921
+E[W]: 5.088629
+Erro de Little: -1.282284
+
+Tempo: 57500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900389
+E[N]: 8.912323
+E[W]: 3.544226
+Erro de Little: 1.803698
+
+Tempo: 57600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900414
+E[N]: 8.909433
+E[W]: 3.846424
+Erro de Little: 1.193792
+
+Tempo: 57700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900587
+E[N]: 8.912961
+E[W]: 3.942209
+Erro de Little: 1.003554
+
+Tempo: 57800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900547
+E[N]: 8.904316
+E[W]: 4.044156
+Erro de Little: 0.791329
+
+Tempo: 57900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900434
+E[N]: 8.896799
+E[W]: 3.394950
+Erro de Little: 2.086500
+
+Tempo: 58000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900291
+E[N]: 8.888074
+E[W]: 4.808606
+Erro de Little: -0.758456
+
+Tempo: 58100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900455
+E[N]: 8.891283
+E[W]: 3.775837
+Erro de Little: 1.316672
+
+Tempo: 58200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900432
+E[N]: 8.897748
+E[W]: 3.938245
+Erro de Little: 0.997458
+
+Tempo: 58300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900512
+E[N]: 8.905645
+E[W]: 4.718139
+Erro de Little: -0.559821
+
+Tempo: 58400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900656
+E[N]: 8.911618
+E[W]: 3.779764
+Erro de Little: 1.326761
+
+Tempo: 58500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900692
+E[N]: 8.908424
+E[W]: 4.889595
+Erro de Little: -0.904098
+
+Tempo: 58600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900435
+E[N]: 8.897164
+E[W]: 4.981984
+Erro de Little: -1.098960
+
+Tempo: 58700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900488
+E[N]: 8.895495
+E[W]: 4.879245
+Erro de Little: -0.894646
+
+Tempo: 58800.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900598
+E[N]: 8.898928
+E[W]: 4.402197
+Erro de Little: 0.064067
+
+Tempo: 58900.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900674
+E[N]: 8.905033
+E[W]: 3.838137
+Erro de Little: 1.201814
+
+Tempo: 59000.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900768
+E[N]: 8.912993
+E[W]: 1.805521
+Erro de Little: 5.289343
+
+Tempo: 59100.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900834
+E[N]: 8.911410
+E[W]: 5.404682
+Erro de Little: -1.934546
+
+Tempo: 59200.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900724
+E[N]: 8.906471
+E[W]: 4.340156
+Erro de Little: 0.198889
+
+Tempo: 59300.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900793
+E[N]: 8.907634
+E[W]: 5.734442
+Erro de Little: -2.596661
+
+Tempo: 59400.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900719
+E[N]: 8.902000
+E[W]: 3.649899
+Erro de Little: 1.580040
+
+Tempo: 59500.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900753
+E[N]: 8.903843
+E[W]: 5.111549
+Erro de Little: -1.349166
+
+Tempo: 59600.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900778
+E[N]: 8.905073
+E[W]: 4.130187
+Erro de Little: 0.620106
+
+Tempo: 59700.00 s
+Maior tamanho de fila alcançado: 69
+Ocupação: 0.900946
+E[N]: 8.927977
+E[W]: 5.692649
+Erro de Little: -2.492950
+
+Tempo: 59800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901108
+E[N]: 9.017693
+E[W]: 4.436491
+Erro de Little: 0.116007
+
+Tempo: 59900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901274
+E[N]: 9.069195
+E[W]: 3.932552
+Erro de Little: 1.178331
+
+Tempo: 60000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901422
+E[N]: 9.093502
+E[W]: 4.093170
+Erro de Little: 0.880679
+
+Tempo: 60100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901428
+E[N]: 9.086191
+E[W]: 5.278634
+Erro de Little: -1.506032
+
+Tempo: 60200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901421
+E[N]: 9.082566
+E[W]: 4.062667
+Erro de Little: 0.930636
+
+Tempo: 60300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901215
+E[N]: 9.073717
+E[W]: 5.001640
+Erro de Little: -0.960789
+
+Tempo: 60400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901248
+E[N]: 9.065645
+E[W]: 4.447798
+Erro de Little: 0.141849
+
+Tempo: 60500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901401
+E[N]: 9.074766
+E[W]: 4.263205
+Erro de Little: 0.519350
+
+Tempo: 60600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901486
+E[N]: 9.083573
+E[W]: 6.233278
+Erro de Little: -3.424525
+
+Tempo: 60700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901649
+E[N]: 9.100740
+E[W]: 4.095069
+Erro de Little: 0.881932
+
+Tempo: 60800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901817
+E[N]: 9.147983
+E[W]: 3.872199
+Erro de Little: 1.376230
+
+Tempo: 60900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901891
+E[N]: 9.168080
+E[W]: 6.051597
+Erro de Little: -2.976842
+
+Tempo: 61000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901914
+E[N]: 9.160345
+E[W]: 5.991315
+Erro de Little: -2.864464
+
+Tempo: 61100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901951
+E[N]: 9.159687
+E[W]: 3.846585
+Erro de Little: 1.439838
+
+Tempo: 61200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902088
+E[N]: 9.160695
+E[W]: 5.768410
+Erro de Little: -2.416145
+
+Tempo: 61300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902247
+E[N]: 9.166492
+E[W]: 3.948823
+Erro de Little: 1.240578
+
+Tempo: 61400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902190
+E[N]: 9.159213
+E[W]: 4.629343
+Erro de Little: -0.131667
+
+Tempo: 61500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902285
+E[N]: 9.152469
+E[W]: 4.985647
+Erro de Little: -0.853859
+
+Tempo: 61600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902267
+E[N]: 9.147289
+E[W]: 3.667003
+Erro de Little: 1.786598
+
+Tempo: 61700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902084
+E[N]: 9.141412
+E[W]: 3.968044
+Erro de Little: 1.177259
+
+Tempo: 61800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902135
+E[N]: 9.143373
+E[W]: 4.475155
+Erro de Little: 0.162004
+
+Tempo: 61900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902041
+E[N]: 9.138501
+E[W]: 3.658375
+Erro de Little: 1.797349
+
+Tempo: 62000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902046
+E[N]: 9.133649
+E[W]: 4.835026
+Erro de Little: -0.567487
+
+Tempo: 62100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902098
+E[N]: 9.137208
+E[W]: 6.002796
+Erro de Little: -2.905975
+
+Tempo: 62200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902009
+E[N]: 9.130514
+E[W]: 5.413699
+Erro de Little: -1.729849
+
+Tempo: 62300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902010
+E[N]: 9.124968
+E[W]: 4.387872
+Erro de Little: 0.323176
+
+Tempo: 62400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901984
+E[N]: 9.116146
+E[W]: 4.078512
+Erro de Little: 0.935004
+
+Tempo: 62500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901857
+E[N]: 9.105658
+E[W]: 4.238368
+Erro de Little: 0.605486
+
+Tempo: 62600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901757
+E[N]: 9.095700
+E[W]: 3.932801
+Erro de Little: 1.208804
+
+Tempo: 62700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901778
+E[N]: 9.090507
+E[W]: 4.715104
+Erro de Little: -0.367210
+
+Tempo: 62800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901672
+E[N]: 9.081207
+E[W]: 4.359807
+Erro de Little: 0.336752
+
+Tempo: 62900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901829
+E[N]: 9.086191
+E[W]: 6.053666
+Erro de Little: -3.057127
+
+Tempo: 63000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901886
+E[N]: 9.090578
+E[W]: 4.079159
+Erro de Little: 0.907809
+
+Tempo: 63100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901932
+E[N]: 9.088949
+E[W]: 5.535115
+Erro de Little: -2.014134
+
+Tempo: 63200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901868
+E[N]: 9.089398
+E[W]: 3.907948
+Erro de Little: 1.250798
+
+Tempo: 63300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901850
+E[N]: 9.082426
+E[W]: 4.984522
+Erro de Little: -0.915212
+
+Tempo: 63400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901746
+E[N]: 9.074778
+E[W]: 5.632298
+Erro de Little: -2.222795
+
+Tempo: 63500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901463
+E[N]: 9.064672
+E[W]: 5.389694
+Erro de Little: -1.744052
+
+Tempo: 63600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901502
+E[N]: 9.068994
+E[W]: 3.831686
+Erro de Little: 1.384239
+
+Tempo: 63700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901630
+E[N]: 9.099197
+E[W]: 5.516103
+Erro de Little: -1.964281
+
+Tempo: 63800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901410
+E[N]: 9.090817
+E[W]: 2.973541
+Erro de Little: 3.128584
+
+Tempo: 63900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901431
+E[N]: 9.091159
+E[W]: 5.304639
+Erro de Little: -1.546176
+
+Tempo: 64000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901473
+E[N]: 9.092436
+E[W]: 4.723273
+Erro de Little: -0.378970
+
+Tempo: 64100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901435
+E[N]: 9.087439
+E[W]: 3.569808
+Erro de Little: 1.930070
+
+Tempo: 64200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901540
+E[N]: 9.102657
+E[W]: 4.964061
+Erro de Little: -0.851599
+
+Tempo: 64300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901669
+E[N]: 9.108564
+E[W]: 2.732940
+Erro de Little: 3.627408
+
+Tempo: 64400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901826
+E[N]: 9.119354
+E[W]: 3.424098
+Erro de Little: 2.251709
+
+Tempo: 64500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901972
+E[N]: 9.130583
+E[W]: 5.837790
+Erro de Little: -2.579978
+
+Tempo: 64600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902131
+E[N]: 9.173149
+E[W]: 4.023512
+Erro de Little: 1.102263
+
+Tempo: 64700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902276
+E[N]: 9.248916
+E[W]: 2.891752
+Erro de Little: 3.448296
+
+Tempo: 64800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902316
+E[N]: 9.257752
+E[W]: 3.930254
+Erro de Little: 1.374517
+
+Tempo: 64900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902464
+E[N]: 9.267458
+E[W]: 5.675458
+Erro de Little: -2.117817
+
+Tempo: 65000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902553
+E[N]: 9.264981
+E[W]: 5.185185
+Erro de Little: -1.135613
+
+Tempo: 65100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902587
+E[N]: 9.259634
+E[W]: 5.508847
+Erro de Little: -1.789435
+
+Tempo: 65200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902566
+E[N]: 9.253161
+E[W]: 6.494634
+Erro de Little: -3.774826
+
+Tempo: 65300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902661
+E[N]: 9.255666
+E[W]: 5.253365
+Erro de Little: -1.284713
+
+Tempo: 65400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902607
+E[N]: 9.253356
+E[W]: 3.781234
+Erro de Little: 1.667207
+
+Tempo: 65500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902594
+E[N]: 9.246080
+E[W]: 5.032977
+Erro de Little: -0.851455
+
+Tempo: 65600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902490
+E[N]: 9.238126
+E[W]: 4.194881
+Erro de Little: 0.822429
+
+Tempo: 65700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902406
+E[N]: 9.228733
+E[W]: 3.374832
+Erro de Little: 2.458109
+
+Tempo: 65800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902433
+E[N]: 9.222780
+E[W]: 3.909334
+Erro de Little: 1.379354
+
+Tempo: 65900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902471
+E[N]: 9.220697
+E[W]: 3.325981
+Erro de Little: 2.547957
+
+Tempo: 66000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902388
+E[N]: 9.212467
+E[W]: 5.991181
+Erro de Little: -2.806631
+
+Tempo: 66100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902221
+E[N]: 9.203531
+E[W]: 4.124995
+Erro de Little: 0.929805
+
+Tempo: 66200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902330
+E[N]: 9.211228
+E[W]: 3.572096
+Erro de Little: 2.045726
+
+Tempo: 66300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902473
+E[N]: 9.258052
+E[W]: 2.682505
+Erro de Little: 3.876054
+
+Tempo: 66400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902648
+E[N]: 9.276160
+E[W]: 5.148242
+Erro de Little: -1.051880
+
+Tempo: 66500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902635
+E[N]: 9.276460
+E[W]: 3.793670
+Erro de Little: 1.665600
+
+Tempo: 66600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902785
+E[N]: 9.282751
+E[W]: 6.027585
+Erro de Little: -2.812628
+
+Tempo: 66700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902721
+E[N]: 9.280816
+E[W]: 5.919307
+Erro de Little: -2.597372
+
+Tempo: 66800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902828
+E[N]: 9.282475
+E[W]: 4.236199
+Erro de Little: 0.780870
+
+Tempo: 66900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902723
+E[N]: 9.275810
+E[W]: 3.885044
+Erro de Little: 1.479327
+
+Tempo: 67000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902807
+E[N]: 9.272230
+E[W]: 4.922559
+Erro de Little: -0.607617
+
+Tempo: 67100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902951
+E[N]: 9.282968
+E[W]: 6.156627
+Erro de Little: -3.076433
+
+Tempo: 67200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902954
+E[N]: 9.274992
+E[W]: 3.341186
+Erro de Little: 2.567810
+
+Tempo: 67300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903041
+E[N]: 9.277988
+E[W]: 3.900998
+Erro de Little: 1.446397
+
+Tempo: 67400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903175
+E[N]: 9.312778
+E[W]: 3.865053
+Erro de Little: 1.552226
+
+Tempo: 67500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903319
+E[N]: 9.335400
+E[W]: 2.597839
+Erro de Little: 4.119002
+
+Tempo: 67600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903284
+E[N]: 9.331829
+E[W]: 2.964073
+Erro de Little: 3.380868
+
+Tempo: 67700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903199
+E[N]: 9.325967
+E[W]: 4.992685
+Erro de Little: -0.696253
+
+Tempo: 67800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903255
+E[N]: 9.319916
+E[W]: 4.475809
+Erro de Little: 0.334904
+
+Tempo: 67900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903049
+E[N]: 9.309465
+E[W]: 3.963305
+Erro de Little: 1.354037
+
+Tempo: 68000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902979
+E[N]: 9.301578
+E[W]: 5.015615
+Erro de Little: -0.765127
+
+Tempo: 68100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902946
+E[N]: 9.306111
+E[W]: 5.412102
+Erro de Little: -1.557111
+
+Tempo: 68200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903074
+E[N]: 9.322730
+E[W]: 2.880624
+Erro de Little: 3.540384
+
+Tempo: 68300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903211
+E[N]: 9.329945
+E[W]: 4.713222
+Erro de Little: -0.132102
+
+Tempo: 68400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903370
+E[N]: 9.340859
+E[W]: 5.150940
+Erro de Little: -1.001321
+
+Tempo: 68500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903300
+E[N]: 9.339343
+E[W]: 4.623112
+Erro de Little: 0.057012
+
+Tempo: 68600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903370
+E[N]: 9.338640
+E[W]: 4.993198
+Erro de Little: -0.687037
+
+Tempo: 68700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903435
+E[N]: 9.350799
+E[W]: 4.940131
+Erro de Little: -0.568002
+
+Tempo: 68800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903406
+E[N]: 9.345441
+E[W]: 4.440233
+Erro de Little: 0.429805
+
+Tempo: 68900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903244
+E[N]: 9.336191
+E[W]: 3.254548
+Erro de Little: 2.802574
+
+Tempo: 69000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903361
+E[N]: 9.332162
+E[W]: 5.542396
+Erro de Little: -1.795634
+
+Tempo: 69100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903486
+E[N]: 9.343593
+E[W]: 5.394259
+Erro de Little: -1.486682
+
+Tempo: 69200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903291
+E[N]: 9.333174
+E[W]: 4.909086
+Erro de Little: -0.522313
+
+Tempo: 69300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903138
+E[N]: 9.323423
+E[W]: 4.143461
+Erro de Little: 1.006314
+
+Tempo: 69400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902885
+E[N]: 9.313672
+E[W]: 4.857013
+Erro de Little: -0.435678
+
+Tempo: 69500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902999
+E[N]: 9.309485
+E[W]: 5.459483
+Erro de Little: -1.649949
+
+Tempo: 69600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903104
+E[N]: 9.308594
+E[W]: 4.868741
+Erro de Little: -0.467149
+
+Tempo: 69700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903128
+E[N]: 9.302870
+E[W]: 4.192175
+Erro de Little: 0.885211
+
+Tempo: 69800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903170
+E[N]: 9.298554
+E[W]: 2.697336
+Erro de Little: 3.882534
+
+Tempo: 69900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903000
+E[N]: 9.293874
+E[W]: 4.295107
+Erro de Little: 0.670295
+
+Tempo: 70000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903136
+E[N]: 9.297287
+E[W]: 3.911574
+Erro de Little: 1.443734
+
+Tempo: 70100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903231
+E[N]: 9.299549
+E[W]: 4.758258
+Erro de Little: -0.253955
+
+Tempo: 70200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903246
+E[N]: 9.296744
+E[W]: 4.422214
+Erro de Little: 0.418050
+
+Tempo: 70300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903279
+E[N]: 9.294565
+E[W]: 3.960091
+Erro de Little: 1.344989
+
+Tempo: 70400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903281
+E[N]: 9.300362
+E[W]: 6.467622
+Erro de Little: -3.682967
+
+Tempo: 70500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903218
+E[N]: 9.297346
+E[W]: 3.594380
+Erro de Little: 2.081686
+
+Tempo: 70600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903122
+E[N]: 9.289760
+E[W]: 5.140311
+Erro de Little: -1.028431
+
+Tempo: 70700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903105
+E[N]: 9.284125
+E[W]: 3.718953
+Erro de Little: 1.818474
+
+Tempo: 70800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903196
+E[N]: 9.280749
+E[W]: 4.307270
+Erro de Little: 0.634649
+
+Tempo: 70900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903153
+E[N]: 9.272329
+E[W]: 5.172059
+Erro de Little: -1.108626
+
+Tempo: 71000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903231
+E[N]: 9.268813
+E[W]: 6.190793
+Erro de Little: -3.158529
+
+Tempo: 71100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903297
+E[N]: 9.270047
+E[W]: 4.528588
+Erro de Little: 0.179312
+
+Tempo: 71200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902984
+E[N]: 9.260120
+E[W]: 5.114967
+Erro de Little: -1.005469
+
+Tempo: 71300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902986
+E[N]: 9.256885
+E[W]: 6.810843
+Erro de Little: -4.412595
+
+Tempo: 71400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903067
+E[N]: 9.254991
+E[W]: 5.446729
+Erro de Little: -1.677270
+
+Tempo: 71500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903194
+E[N]: 9.274965
+E[W]: 3.309878
+Erro de Little: 2.632617
+
+Tempo: 71600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903195
+E[N]: 9.270873
+E[W]: 3.346519
+Erro de Little: 2.555435
+
+Tempo: 71700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903037
+E[N]: 9.262008
+E[W]: 4.310530
+Erro de Little: 0.612657
+
+Tempo: 71800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903119
+E[N]: 9.302296
+E[W]: 5.198266
+Erro de Little: -1.131521
+
+Tempo: 71900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903245
+E[N]: 9.350807
+E[W]: 5.013952
+Erro de Little: -0.712074
+
+Tempo: 72000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903380
+E[N]: 9.383587
+E[W]: 3.239941
+Erro de Little: 2.880716
+
+Tempo: 72100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903521
+E[N]: 9.394786
+E[W]: 5.490278
+Erro de Little: -1.625059
+
+Tempo: 72200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903620
+E[N]: 9.404061
+E[W]: 5.145240
+Erro de Little: -0.923518
+
+Tempo: 72300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903573
+E[N]: 9.397672
+E[W]: 4.319830
+Erro de Little: 0.726120
+
+Tempo: 72400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903530
+E[N]: 9.390804
+E[W]: 4.091958
+Erro de Little: 1.175811
+
+Tempo: 72500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903546
+E[N]: 9.384601
+E[W]: 5.190806
+Erro de Little: -1.036757
+
+Tempo: 72600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903487
+E[N]: 9.379302
+E[W]: 4.421529
+Erro de Little: 0.502960
+
+Tempo: 72700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903461
+E[N]: 9.373241
+E[W]: 4.171611
+Erro de Little: 0.999097
+
+Tempo: 72800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903377
+E[N]: 9.365739
+E[W]: 6.054575
+Erro de Little: -2.788662
+
+Tempo: 72900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903354
+E[N]: 9.363098
+E[W]: 4.232095
+Erro de Little: 0.867569
+
+Tempo: 73000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903352
+E[N]: 9.362877
+E[W]: 3.938145
+Erro de Little: 1.458303
+
+Tempo: 73100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903275
+E[N]: 9.356971
+E[W]: 5.408729
+Erro de Little: -1.498144
+
+Tempo: 73200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903079
+E[N]: 9.347302
+E[W]: 5.427429
+Erro de Little: -1.543193
+
+Tempo: 73300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903053
+E[N]: 9.343668
+E[W]: 5.123620
+Erro de Little: -0.937725
+
+Tempo: 73400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903151
+E[N]: 9.349360
+E[W]: 6.365132
+Erro de Little: -3.422700
+
+Tempo: 73500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903257
+E[N]: 9.348929
+E[W]: 4.866254
+Erro de Little: -0.415554
+
+Tempo: 73600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.903021
+E[N]: 9.338330
+E[W]: 6.584754
+Erro de Little: -3.871174
+
+Tempo: 73700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902844
+E[N]: 9.329468
+E[W]: 5.169395
+Erro de Little: -1.040587
+
+Tempo: 73800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902675
+E[N]: 9.319788
+E[W]: 3.876012
+Erro de Little: 1.546076
+
+Tempo: 73900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902388
+E[N]: 9.310436
+E[W]: 4.050890
+Erro de Little: 1.187122
+
+Tempo: 74000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902292
+E[N]: 9.301990
+E[W]: 3.731898
+Erro de Little: 1.818715
+
+Tempo: 74100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902202
+E[N]: 9.295073
+E[W]: 4.922120
+Erro de Little: -0.574538
+
+Tempo: 74200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902197
+E[N]: 9.297357
+E[W]: 5.070020
+Erro de Little: -0.869508
+
+Tempo: 74300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902119
+E[N]: 9.295210
+E[W]: 7.207369
+Erro de Little: -5.156630
+
+Tempo: 74400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902151
+E[N]: 9.296632
+E[W]: 6.117223
+Erro de Little: -2.971669
+
+Tempo: 74500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902284
+E[N]: 9.346891
+E[W]: 4.072418
+Erro de Little: 1.178310
+
+Tempo: 74600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902301
+E[N]: 9.368815
+E[W]: 4.996558
+Erro de Little: -0.652680
+
+Tempo: 74700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902245
+E[N]: 9.361704
+E[W]: 5.011524
+Erro de Little: -0.690727
+
+Tempo: 74800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902198
+E[N]: 9.354472
+E[W]: 5.237150
+Erro de Little: -1.150139
+
+Tempo: 74900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902261
+E[N]: 9.348441
+E[W]: 3.185782
+Erro de Little: 2.958293
+
+Tempo: 75000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902332
+E[N]: 9.344670
+E[W]: 3.769397
+Erro de Little: 1.783687
+
+Tempo: 75100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902271
+E[N]: 9.339587
+E[W]: 4.845943
+Erro de Little: -0.381511
+
+Tempo: 75200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902368
+E[N]: 9.341783
+E[W]: 4.316925
+Erro de Little: 0.680854
+
+Tempo: 75300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902490
+E[N]: 9.347186
+E[W]: 4.328641
+Erro de Little: 0.663150
+
+Tempo: 75400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902255
+E[N]: 9.337805
+E[W]: 6.303152
+Erro de Little: -3.305877
+
+Tempo: 75500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902231
+E[N]: 9.332062
+E[W]: 4.209041
+Erro de Little: 0.888264
+
+Tempo: 75600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902304
+E[N]: 9.332355
+E[W]: 4.061866
+Erro de Little: 1.183482
+
+Tempo: 75700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902283
+E[N]: 9.326477
+E[W]: 4.232728
+Erro de Little: 0.836933
+
+Tempo: 75800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902297
+E[N]: 9.325628
+E[W]: 4.853387
+Erro de Little: -0.408930
+
+Tempo: 75900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902329
+E[N]: 9.330244
+E[W]: 5.222067
+Erro de Little: -1.145085
+
+Tempo: 76000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902177
+E[N]: 9.321609
+E[W]: 4.034056
+Erro de Little: 1.230632
+
+Tempo: 76100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902013
+E[N]: 9.314676
+E[W]: 7.625577
+Erro de Little: -5.977291
+
+Tempo: 76200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901875
+E[N]: 9.308916
+E[W]: 3.621721
+Erro de Little: 2.046893
+
+Tempo: 76300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901924
+E[N]: 9.304093
+E[W]: 3.370715
+Erro de Little: 2.545151
+
+Tempo: 76400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901923
+E[N]: 9.298268
+E[W]: 5.041198
+Erro de Little: -0.810217
+
+Tempo: 76500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901971
+E[N]: 9.294760
+E[W]: 5.442770
+Erro de Little: -1.619366
+
+Tempo: 76600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901943
+E[N]: 9.290544
+E[W]: 5.321295
+Erro de Little: -1.379953
+
+Tempo: 76700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902026
+E[N]: 9.294766
+E[W]: 3.813025
+Erro de Little: 1.648160
+
+Tempo: 76800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902149
+E[N]: 9.302957
+E[W]: 5.212154
+Erro de Little: -1.149895
+
+Tempo: 76900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902272
+E[N]: 9.310937
+E[W]: 3.415731
+Erro de Little: 2.460961
+
+Tempo: 77000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902248
+E[N]: 9.307646
+E[W]: 3.371033
+Erro de Little: 2.548040
+
+Tempo: 77100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902301
+E[N]: 9.303678
+E[W]: 4.051528
+Erro de Little: 1.180249
+
+Tempo: 77200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902372
+E[N]: 9.300209
+E[W]: 4.282440
+Erro de Little: 0.713273
+
+Tempo: 77300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902340
+E[N]: 9.296336
+E[W]: 4.170631
+Erro de Little: 0.933935
+
+Tempo: 77400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902373
+E[N]: 9.294520
+E[W]: 5.885530
+Erro de Little: -2.507153
+
+Tempo: 77500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902141
+E[N]: 9.285245
+E[W]: 4.324343
+Erro de Little: 0.614978
+
+Tempo: 77600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902104
+E[N]: 9.284635
+E[W]: 2.483556
+Erro de Little: 4.305080
+
+Tempo: 77700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902060
+E[N]: 9.279235
+E[W]: 5.026437
+Erro de Little: -0.798829
+
+Tempo: 77800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902101
+E[N]: 9.278190
+E[W]: 6.616820
+Erro de Little: -3.988238
+
+Tempo: 77900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902075
+E[N]: 9.273075
+E[W]: 5.862139
+Erro de Little: -2.481100
+
+Tempo: 78000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902060
+E[N]: 9.267341
+E[W]: 4.797901
+Erro de Little: -0.352876
+
+Tempo: 78100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902168
+E[N]: 9.279958
+E[W]: 3.556686
+Erro de Little: 2.148265
+
+Tempo: 78200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902223
+E[N]: 9.278124
+E[W]: 6.010854
+Erro de Little: -2.773254
+
+Tempo: 78300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902195
+E[N]: 9.271065
+E[W]: 5.918588
+Erro de Little: -2.594924
+
+Tempo: 78400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902233
+E[N]: 9.269647
+E[W]: 4.017675
+Erro de Little: 1.213946
+
+Tempo: 78500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902307
+E[N]: 9.266317
+E[W]: 5.296884
+Erro de Little: -1.354492
+
+Tempo: 78600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902429
+E[N]: 9.270110
+E[W]: 4.583309
+Erro de Little: 0.078888
+
+Tempo: 78700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902544
+E[N]: 9.272858
+E[W]: 6.262487
+Erro de Little: -3.285479
+
+Tempo: 78800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902550
+E[N]: 9.269680
+E[W]: 5.019423
+Erro de Little: -0.796296
+
+Tempo: 78900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902664
+E[N]: 9.277356
+E[W]: 4.245994
+Erro de Little: 0.762250
+
+Tempo: 79000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902688
+E[N]: 9.280494
+E[W]: 5.184147
+Erro de Little: -1.115884
+
+Tempo: 79100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902641
+E[N]: 9.275102
+E[W]: 5.059196
+Erro de Little: -0.869749
+
+Tempo: 79200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902548
+E[N]: 9.267318
+E[W]: 4.965078
+Erro de Little: -0.688158
+
+Tempo: 79300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902537
+E[N]: 9.263403
+E[W]: 5.436775
+Erro de Little: -1.637277
+
+Tempo: 79400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902545
+E[N]: 9.263168
+E[W]: 5.841247
+Erro de Little: -2.448106
+
+Tempo: 79500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902455
+E[N]: 9.256140
+E[W]: 4.993701
+Erro de Little: -0.754978
+
+Tempo: 79600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902357
+E[N]: 9.247417
+E[W]: 4.799491
+Erro de Little: -0.373792
+
+Tempo: 79700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902341
+E[N]: 9.241767
+E[W]: 5.269125
+Erro de Little: -1.321473
+
+Tempo: 79800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902339
+E[N]: 9.237481
+E[W]: 5.245243
+Erro de Little: -1.277883
+
+Tempo: 79900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902439
+E[N]: 9.234796
+E[W]: 3.578582
+Erro de Little: 2.059542
+
+Tempo: 80000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902335
+E[N]: 9.227076
+E[W]: 5.827374
+Erro de Little: -2.455476
+
+Tempo: 80100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902356
+E[N]: 9.225552
+E[W]: 5.853032
+Erro de Little: -2.508623
+
+Tempo: 80200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902245
+E[N]: 9.217456
+E[W]: 4.880662
+Erro de Little: -0.565888
+
+Tempo: 80300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902070
+E[N]: 9.208894
+E[W]: 4.494138
+Erro de Little: 0.200925
+
+Tempo: 80400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902078
+E[N]: 9.204617
+E[W]: 4.183734
+Erro de Little: 0.818457
+
+Tempo: 80500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901965
+E[N]: 9.198333
+E[W]: 4.413809
+Erro de Little: 0.350936
+
+Tempo: 80600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902104
+E[N]: 9.220889
+E[W]: 5.276381
+Erro de Little: -1.357041
+
+Tempo: 80700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902100
+E[N]: 9.221207
+E[W]: 5.359142
+Erro de Little: -1.523384
+
+Tempo: 80800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902194
+E[N]: 9.218901
+E[W]: 4.845583
+Erro de Little: -0.496717
+
+Tempo: 80900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902193
+E[N]: 9.214350
+E[W]: 6.426102
+Erro de Little: -3.670635
+
+Tempo: 81000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902226
+E[N]: 9.209274
+E[W]: 5.953033
+Erro de Little: -2.727288
+
+Tempo: 81100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902210
+E[N]: 9.205350
+E[W]: 4.459568
+Erro de Little: 0.264004
+
+Tempo: 81200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902221
+E[N]: 9.202442
+E[W]: 4.767936
+Erro de Little: -0.356840
+
+Tempo: 81300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902072
+E[N]: 9.194890
+E[W]: 4.656596
+Erro de Little: -0.140123
+
+Tempo: 81400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902016
+E[N]: 9.187635
+E[W]: 3.967764
+Erro de Little: 1.233637
+
+Tempo: 81500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901860
+E[N]: 9.180771
+E[W]: 5.292981
+Erro de Little: -1.428986
+
+Tempo: 81600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901896
+E[N]: 9.187787
+E[W]: 3.873883
+Erro de Little: 1.421242
+
+Tempo: 81700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902013
+E[N]: 9.208632
+E[W]: 3.985988
+Erro de Little: 1.215697
+
+Tempo: 81800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902137
+E[N]: 9.234674
+E[W]: 5.225057
+Erro de Little: -1.243340
+
+Tempo: 81900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902060
+E[N]: 9.230088
+E[W]: 4.721865
+Erro de Little: -0.238716
+
+Tempo: 82000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901986
+E[N]: 9.226510
+E[W]: 5.605337
+Erro de Little: -2.013382
+
+Tempo: 82100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901977
+E[N]: 9.222192
+E[W]: 5.515492
+Erro de Little: -1.837246
+
+Tempo: 82200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901886
+E[N]: 9.216903
+E[W]: 5.554013
+Erro de Little: -1.918857
+
+Tempo: 82300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901835
+E[N]: 9.210629
+E[W]: 3.962077
+Erro de Little: 1.266680
+
+Tempo: 82400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901836
+E[N]: 9.209959
+E[W]: 4.668139
+Erro de Little: -0.149769
+
+Tempo: 82500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901833
+E[N]: 9.205955
+E[W]: 3.880547
+Erro de Little: 1.425691
+
+Tempo: 82600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901698
+E[N]: 9.197520
+E[W]: 6.377281
+Erro de Little: -3.588231
+
+Tempo: 82700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901711
+E[N]: 9.194585
+E[W]: 5.685206
+Erro de Little: -2.203518
+
+Tempo: 82800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901716
+E[N]: 9.190371
+E[W]: 5.316339
+Erro de Little: -1.468460
+
+Tempo: 82900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901836
+E[N]: 9.208994
+E[W]: 4.289773
+Erro de Little: 0.607018
+
+Tempo: 83000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901672
+E[N]: 9.203744
+E[W]: 4.810891
+Erro de Little: -0.442603
+
+Tempo: 83100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901658
+E[N]: 9.198561
+E[W]: 5.028830
+Erro de Little: -0.885639
+
+Tempo: 83200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901743
+E[N]: 9.196041
+E[W]: 4.132818
+Erro de Little: 0.908665
+
+Tempo: 83300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901806
+E[N]: 9.193101
+E[W]: 3.222841
+Erro de Little: 2.730085
+
+Tempo: 83400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901875
+E[N]: 9.188909
+E[W]: 4.040723
+Erro de Little: 1.085852
+
+Tempo: 83500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901862
+E[N]: 9.186280
+E[W]: 3.781617
+Erro de Little: 1.603533
+
+Tempo: 83600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901775
+E[N]: 9.179294
+E[W]: 7.171550
+Erro de Little: -5.199106
+
+Tempo: 83700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901873
+E[N]: 9.177028
+E[W]: 4.063590
+Erro de Little: 1.028244
+
+Tempo: 83800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901992
+E[N]: 9.197787
+E[W]: 4.854496
+Erro de Little: -0.537957
+
+Tempo: 83900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901994
+E[N]: 9.195144
+E[W]: 4.488609
+Erro de Little: 0.194495
+
+Tempo: 84000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901939
+E[N]: 9.188585
+E[W]: 3.333688
+Erro de Little: 2.504764
+
+Tempo: 84100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902085
+E[N]: 9.205813
+E[W]: 4.147363
+Erro de Little: 0.889787
+
+Tempo: 84200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902180
+E[N]: 9.224773
+E[W]: 5.024075
+Erro de Little: -0.848943
+
+Tempo: 84300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902117
+E[N]: 9.220125
+E[W]: 5.622403
+Erro de Little: -2.052715
+
+Tempo: 84400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902154
+E[N]: 9.215664
+E[W]: 3.924268
+Erro de Little: 1.346546
+
+Tempo: 84500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902201
+E[N]: 9.210431
+E[W]: 5.266450
+Erro de Little: -1.350179
+
+Tempo: 84600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902248
+E[N]: 9.207346
+E[W]: 5.560367
+Erro de Little: -1.943910
+
+Tempo: 84700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902227
+E[N]: 9.200615
+E[W]: 5.626185
+Erro de Little: -2.081822
+
+Tempo: 84800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902219
+E[N]: 9.200568
+E[W]: 4.237470
+Erro de Little: 0.702695
+
+Tempo: 84900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902193
+E[N]: 9.195607
+E[W]: 5.382534
+Erro de Little: -1.598405
+
+Tempo: 85000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902136
+E[N]: 9.196041
+E[W]: 3.613606
+Erro de Little: 1.949173
+
+Tempo: 85100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902194
+E[N]: 9.196796
+E[W]: 3.943631
+Erro de Little: 1.288565
+
+Tempo: 85200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902195
+E[N]: 9.191808
+E[W]: 4.430657
+Erro de Little: 0.306271
+
+Tempo: 85300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902062
+E[N]: 9.184231
+E[W]: 7.041427
+Erro de Little: -4.936699
+
+Tempo: 85400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901849
+E[N]: 9.176136
+E[W]: 4.386000
+Erro de Little: 0.381504
+
+Tempo: 85500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901873
+E[N]: 9.172593
+E[W]: 6.532820
+Erro de Little: -3.926609
+
+Tempo: 85600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901756
+E[N]: 9.165456
+E[W]: 4.010179
+Erro de Little: 1.124620
+
+Tempo: 85700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901800
+E[N]: 9.163734
+E[W]: 3.810476
+Erro de Little: 1.523508
+
+Tempo: 85800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901639
+E[N]: 9.156003
+E[W]: 7.437694
+Erro de Little: -5.756874
+
+Tempo: 85900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901731
+E[N]: 9.153759
+E[W]: 3.421209
+Erro de Little: 2.294238
+
+Tempo: 86000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901758
+E[N]: 9.155456
+E[W]: 4.607428
+Erro de Little: -0.082222
+
+Tempo: 86100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901683
+E[N]: 9.148923
+E[W]: 3.268078
+Erro de Little: 2.596819
+
+Tempo: 86200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901685
+E[N]: 9.144745
+E[W]: 4.201783
+Erro de Little: 0.720439
+
+Tempo: 86300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901741
+E[N]: 9.147760
+E[W]: 5.488444
+Erro de Little: -1.855888
+
+Tempo: 86400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901844
+E[N]: 9.159265
+E[W]: 5.069513
+Erro de Little: -1.004596
+
+Tempo: 86500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901903
+E[N]: 9.156709
+E[W]: 6.547591
+Erro de Little: -3.971091
+
+Tempo: 86600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901990
+E[N]: 9.154118
+E[W]: 5.905472
+Erro de Little: -2.687833
+
+Tempo: 86700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901888
+E[N]: 9.148481
+E[W]: 7.238470
+Erro de Little: -5.364441
+
+Tempo: 86800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901903
+E[N]: 9.148082
+E[W]: 3.847988
+Erro de Little: 1.433005
+
+Tempo: 86900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901957
+E[N]: 9.143885
+E[W]: 4.490398
+Erro de Little: 0.140410
+
+Tempo: 87000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902026
+E[N]: 9.144988
+E[W]: 3.788811
+Erro de Little: 1.547983
+
+Tempo: 87100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901862
+E[N]: 9.139628
+E[W]: 4.984909
+Erro de Little: -0.853634
+
+Tempo: 87200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901826
+E[N]: 9.137384
+E[W]: 3.879610
+Erro de Little: 1.360095
+
+Tempo: 87300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901890
+E[N]: 9.135865
+E[W]: 4.416867
+Erro de Little: 0.281751
+
+Tempo: 87400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901821
+E[N]: 9.129183
+E[W]: 5.658982
+Erro de Little: -2.214692
+
+Tempo: 87500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901904
+E[N]: 9.143185
+E[W]: 4.020842
+Erro de Little: 1.082526
+
+Tempo: 87600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902008
+E[N]: 9.150115
+E[W]: 2.970084
+Erro de Little: 3.195677
+
+Tempo: 87700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901979
+E[N]: 9.150307
+E[W]: 4.262567
+Erro de Little: 0.604350
+
+Tempo: 87800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902030
+E[N]: 9.153058
+E[W]: 5.314308
+Erro de Little: -1.501261
+
+Tempo: 87900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901999
+E[N]: 9.149694
+E[W]: 4.711580
+Erro de Little: -0.296445
+
+Tempo: 88000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901906
+E[N]: 9.143550
+E[W]: 3.973594
+Erro de Little: 1.177449
+
+Tempo: 88100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901871
+E[N]: 9.138422
+E[W]: 5.409862
+Erro de Little: -1.707552
+
+Tempo: 88200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901804
+E[N]: 9.134583
+E[W]: 3.693479
+Erro de Little: 1.730419
+
+Tempo: 88300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901807
+E[N]: 9.140023
+E[W]: 5.252282
+Erro de Little: -1.389461
+
+Tempo: 88400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901861
+E[N]: 9.142280
+E[W]: 5.302135
+Erro de Little: -1.485313
+
+Tempo: 88500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901843
+E[N]: 9.138500
+E[W]: 6.662247
+Erro de Little: -4.215634
+
+Tempo: 88600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901782
+E[N]: 9.132725
+E[W]: 3.419186
+Erro de Little: 2.279219
+
+Tempo: 88700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901780
+E[N]: 9.128176
+E[W]: 4.185561
+Erro de Little: 0.738376
+
+Tempo: 88800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901802
+E[N]: 9.124079
+E[W]: 4.261793
+Erro de Little: 0.581418
+
+Tempo: 88900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901664
+E[N]: 9.117366
+E[W]: 5.626228
+Erro de Little: -2.159425
+
+Tempo: 89000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901659
+E[N]: 9.116338
+E[W]: 5.809869
+Erro de Little: -2.528215
+
+Tempo: 89100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901669
+E[N]: 9.113008
+E[W]: 4.219981
+Erro de Little: 0.654732
+
+Tempo: 89200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901647
+E[N]: 9.107910
+E[W]: 3.383410
+Erro de Little: 2.326373
+
+Tempo: 89300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901665
+E[N]: 9.105682
+E[W]: 5.676962
+Erro de Little: -2.273779
+
+Tempo: 89400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901544
+E[N]: 9.100678
+E[W]: 5.129952
+Erro de Little: -1.181369
+
+Tempo: 89500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901554
+E[N]: 9.101150
+E[W]: 3.575988
+Erro de Little: 1.933499
+
+Tempo: 89600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901593
+E[N]: 9.100631
+E[W]: 5.026594
+Erro de Little: -0.974344
+
+Tempo: 89700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901595
+E[N]: 9.098537
+E[W]: 5.300216
+Erro de Little: -1.524694
+
+Tempo: 89800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901662
+E[N]: 9.103077
+E[W]: 4.049107
+Erro de Little: 0.986602
+
+Tempo: 89900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901716
+E[N]: 9.099087
+E[W]: 4.317856
+Erro de Little: 0.443796
+
+Tempo: 90000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901809
+E[N]: 9.110212
+E[W]: 4.406805
+Erro de Little: 0.276139
+
+Tempo: 90100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901926
+E[N]: 9.150263
+E[W]: 2.713606
+Erro de Little: 3.709636
+
+Tempo: 90200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902024
+E[N]: 9.199103
+E[W]: 4.148385
+Erro de Little: 0.881877
+
+Tempo: 90300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902136
+E[N]: 9.248217
+E[W]: 4.098048
+Erro de Little: 1.031457
+
+Tempo: 90400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902238
+E[N]: 9.303324
+E[W]: 4.113095
+Erro de Little: 1.055562
+
+Tempo: 90500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902352
+E[N]: 9.339723
+E[W]: 4.939124
+Erro de Little: -0.563952
+
+Tempo: 90600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902395
+E[N]: 9.340495
+E[W]: 5.073927
+Erro de Little: -0.834173
+
+Tempo: 90700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902407
+E[N]: 9.336092
+E[W]: 4.910520
+Erro de Little: -0.510772
+
+Tempo: 90800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902464
+E[N]: 9.335488
+E[W]: 4.015154
+Erro de Little: 1.283468
+
+Tempo: 90900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902578
+E[N]: 9.335614
+E[W]: 5.443802
+Erro de Little: -1.581447
+
+Tempo: 91000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902679
+E[N]: 9.350531
+E[W]: 5.275916
+Erro de Little: -1.230805
+
+Tempo: 91100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902795
+E[N]: 9.356946
+E[W]: 4.265985
+Erro de Little: 0.800491
+
+Tempo: 91200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902876
+E[N]: 9.357593
+E[W]: 4.292500
+Erro de Little: 0.747824
+
+Tempo: 91300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902748
+E[N]: 9.351433
+E[W]: 3.099894
+Erro de Little: 3.134569
+
+Tempo: 91400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902790
+E[N]: 9.350329
+E[W]: 3.645097
+Erro de Little: 2.040275
+
+Tempo: 91500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902875
+E[N]: 9.350189
+E[W]: 5.098446
+Erro de Little: -0.874785
+
+Tempo: 91600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902947
+E[N]: 9.348154
+E[W]: 4.882141
+Erro de Little: -0.443024
+
+Tempo: 91700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902789
+E[N]: 9.341965
+E[W]: 3.976448
+Erro de Little: 1.367157
+
+Tempo: 91800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902865
+E[N]: 9.342497
+E[W]: 4.578528
+Erro de Little: 0.160210
+
+Tempo: 91900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902777
+E[N]: 9.337040
+E[W]: 3.587365
+Erro de Little: 2.143146
+
+Tempo: 92000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902786
+E[N]: 9.334906
+E[W]: 3.892238
+Erro de Little: 1.530129
+
+Tempo: 92100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902706
+E[N]: 9.330879
+E[W]: 5.366023
+Erro de Little: -1.428032
+
+Tempo: 92200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902637
+E[N]: 9.324445
+E[W]: 5.159878
+Erro de Little: -1.020603
+
+Tempo: 92300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902496
+E[N]: 9.318248
+E[W]: 4.199835
+Erro de Little: 0.898866
+
+Tempo: 92400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902475
+E[N]: 9.316665
+E[W]: 4.532608
+Erro de Little: 0.229476
+
+Tempo: 92500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902521
+E[N]: 9.312149
+E[W]: 5.311269
+Erro de Little: -1.337690
+
+Tempo: 92600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902454
+E[N]: 9.305859
+E[W]: 4.148672
+Erro de Little: 0.987553
+
+Tempo: 92700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902385
+E[N]: 9.301189
+E[W]: 4.239470
+Erro de Little: 0.800695
+
+Tempo: 92800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902256
+E[N]: 9.297165
+E[W]: 6.264504
+Erro de Little: -3.262759
+
+Tempo: 92900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902228
+E[N]: 9.290693
+E[W]: 5.952327
+Erro de Little: -2.642533
+
+Tempo: 93000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902149
+E[N]: 9.283934
+E[W]: 4.014854
+Erro de Little: 1.234886
+
+Tempo: 93100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902078
+E[N]: 9.279431
+E[W]: 7.106644
+Erro de Little: -4.967129
+
+Tempo: 93200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902159
+E[N]: 9.285154
+E[W]: 4.012942
+Erro de Little: 1.240600
+
+Tempo: 93300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902074
+E[N]: 9.281485
+E[W]: 3.981091
+Erro de Little: 1.300993
+
+Tempo: 93400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902089
+E[N]: 9.277897
+E[W]: 4.130718
+Erro de Little: 0.998660
+
+Tempo: 93500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901962
+E[N]: 9.272471
+E[W]: 4.137133
+Erro de Little: 0.980197
+
+Tempo: 93600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901864
+E[N]: 9.265739
+E[W]: 5.407972
+Erro de Little: -1.572626
+
+Tempo: 93700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901924
+E[N]: 9.272030
+E[W]: 5.327610
+Erro de Little: -1.406401
+
+Tempo: 93800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902027
+E[N]: 9.295731
+E[W]: 4.018971
+Erro de Little: 1.240064
+
+Tempo: 93900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902131
+E[N]: 9.316603
+E[W]: 4.458602
+Erro de Little: 0.379319
+
+Tempo: 94000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902201
+E[N]: 9.320986
+E[W]: 3.717746
+Erro de Little: 1.868274
+
+Tempo: 94100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902154
+E[N]: 9.316447
+E[W]: 4.089346
+Erro de Little: 1.118663
+
+Tempo: 94200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902264
+E[N]: 9.337388
+E[W]: 5.447725
+Erro de Little: -1.585282
+
+Tempo: 94300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902350
+E[N]: 9.357187
+E[W]: 4.641774
+Erro de Little: 0.050455
+
+Tempo: 94400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902241
+E[N]: 9.349714
+E[W]: 4.410744
+Erro de Little: 0.506927
+
+Tempo: 94500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901944
+E[N]: 9.341233
+E[W]: 4.209095
+Erro de Little: 0.904526
+
+Tempo: 94600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901927
+E[N]: 9.341908
+E[W]: 4.407082
+Erro de Little: 0.508892
+
+Tempo: 94700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901933
+E[N]: 9.339690
+E[W]: 3.008904
+Erro de Little: 3.309201
+
+Tempo: 94800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902030
+E[N]: 9.348632
+E[W]: 5.191852
+Erro de Little: -1.057953
+
+Tempo: 94900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901897
+E[N]: 9.342369
+E[W]: 4.274681
+Erro de Little: 0.775625
+
+Tempo: 95000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901942
+E[N]: 9.343383
+E[W]: 6.197361
+Erro de Little: -3.078208
+
+Tempo: 95100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901987
+E[N]: 9.345908
+E[W]: 4.806236
+Erro de Little: -0.286778
+
+Tempo: 95200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902057
+E[N]: 9.346222
+E[W]: 2.754320
+Erro de Little: 3.825634
+
+Tempo: 95300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902043
+E[N]: 9.342176
+E[W]: 6.865372
+Erro de Little: -4.418946
+
+Tempo: 95400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902088
+E[N]: 9.340275
+E[W]: 5.243696
+Erro de Little: -1.170300
+
+Tempo: 95500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902132
+E[N]: 9.346995
+E[W]: 4.230448
+Erro de Little: 0.866609
+
+Tempo: 95600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902144
+E[N]: 9.344960
+E[W]: 3.835680
+Erro de Little: 1.655225
+
+Tempo: 95700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902049
+E[N]: 9.338605
+E[W]: 3.963918
+Erro de Little: 1.392649
+
+Tempo: 95800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902139
+E[N]: 9.356041
+E[W]: 4.275722
+Erro de Little: 0.784358
+
+Tempo: 95900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902134
+E[N]: 9.361495
+E[W]: 4.326223
+Erro de Little: 0.689519
+
+Tempo: 96000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902185
+E[N]: 9.364249
+E[W]: 6.606435
+Erro de Little: -3.878131
+
+Tempo: 96100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902193
+E[N]: 9.359469
+E[W]: 4.600939
+Erro de Little: 0.137201
+
+Tempo: 96200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902240
+E[N]: 9.358602
+E[W]: 5.616255
+Erro de Little: -1.899797
+
+Tempo: 96300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902150
+E[N]: 9.353075
+E[W]: 4.725895
+Erro de Little: -0.119668
+
+Tempo: 96400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902156
+E[N]: 9.348035
+E[W]: 4.294178
+Erro de Little: 0.741023
+
+Tempo: 96500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902054
+E[N]: 9.342779
+E[W]: 4.457344
+Erro de Little: 0.409218
+
+Tempo: 96600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.901994
+E[N]: 9.340251
+E[W]: 4.065288
+Erro de Little: 1.192551
+
+Tempo: 96700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902061
+E[N]: 9.344366
+E[W]: 5.134941
+Erro de Little: -0.948013
+
+Tempo: 96800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902175
+E[N]: 9.360259
+E[W]: 3.323452
+Erro de Little: 2.699217
+
+Tempo: 96900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902214
+E[N]: 9.366546
+E[W]: 6.596446
+Erro de Little: -3.853388
+
+Tempo: 97000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902313
+E[N]: 9.368670
+E[W]: 4.506336
+Erro de Little: 0.337005
+
+Tempo: 97100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902410
+E[N]: 9.382828
+E[W]: 5.145143
+Erro de Little: -0.928408
+
+Tempo: 97200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902402
+E[N]: 9.379378
+E[W]: 5.208768
+Erro de Little: -1.059159
+
+Tempo: 97300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902484
+E[N]: 9.383392
+E[W]: 5.336875
+Erro de Little: -1.312719
+
+Tempo: 97400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902584
+E[N]: 9.413061
+E[W]: 4.535860
+Erro de Little: 0.321604
+
+Tempo: 97500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902672
+E[N]: 9.437295
+E[W]: 5.276943
+Erro de Little: -1.139994
+
+Tempo: 97600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902775
+E[N]: 9.443541
+E[W]: 4.949694
+Erro de Little: -0.477702
+
+Tempo: 97700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902783
+E[N]: 9.441746
+E[W]: 4.030354
+Erro de Little: 1.363855
+
+Tempo: 97800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902638
+E[N]: 9.434634
+E[W]: 5.028301
+Erro de Little: -0.642223
+
+Tempo: 97900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902563
+E[N]: 9.428329
+E[W]: 4.672970
+Erro de Little: 0.064920
+
+Tempo: 98000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902613
+E[N]: 9.424815
+E[W]: 3.944199
+Erro de Little: 1.521618
+
+Tempo: 98100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902557
+E[N]: 9.418849
+E[W]: 4.111095
+Erro de Little: 1.181576
+
+Tempo: 98200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902608
+E[N]: 9.419284
+E[W]: 5.098139
+Erro de Little: -0.796481
+
+Tempo: 98300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902706
+E[N]: 9.437113
+E[W]: 4.243030
+Erro de Little: 0.933719
+
+Tempo: 98400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902738
+E[N]: 9.443461
+E[W]: 6.142021
+Erro de Little: -2.864549
+
+Tempo: 98500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902819
+E[N]: 9.445585
+E[W]: 5.204237
+Erro de Little: -0.984012
+
+Tempo: 98600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902748
+E[N]: 9.442809
+E[W]: 3.593538
+Erro de Little: 2.241942
+
+Tempo: 98700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902679
+E[N]: 9.436978
+E[W]: 6.228458
+Erro de Little: -3.042739
+
+Tempo: 98800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902775
+E[N]: 9.441858
+E[W]: 4.040188
+Erro de Little: 1.346248
+
+Tempo: 98900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902764
+E[N]: 9.441730
+E[W]: 4.153417
+Erro de Little: 1.120181
+
+Tempo: 99000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902580
+E[N]: 9.434753
+E[W]: 6.239570
+Erro de Little: -3.064390
+
+Tempo: 99100.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902492
+E[N]: 9.428010
+E[W]: 5.576786
+Erro de Little: -1.743333
+
+Tempo: 99200.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902577
+E[N]: 9.435965
+E[W]: 3.614904
+Erro de Little: 2.193668
+
+Tempo: 99300.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902669
+E[N]: 9.439925
+E[W]: 4.149461
+Erro de Little: 1.126523
+
+Tempo: 99400.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902677
+E[N]: 9.436041
+E[W]: 3.735004
+Erro de Little: 1.953533
+
+Tempo: 99500.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902618
+E[N]: 9.430376
+E[W]: 5.136378
+Erro de Little: -0.858606
+
+Tempo: 99600.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902547
+E[N]: 9.426559
+E[W]: 3.878134
+Erro de Little: 1.657869
+
+Tempo: 99700.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902457
+E[N]: 9.421976
+E[W]: 5.328471
+Erro de Little: -1.251874
+
+Tempo: 99800.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902487
+E[N]: 9.423453
+E[W]: 5.433547
+Erro de Little: -1.461217
+
+Tempo: 99900.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902489
+E[N]: 9.422047
+E[W]: 4.195380
+Erro de Little: 1.018596
+
+Tempo: 100000.00 s
+Maior tamanho de fila alcançado: 80
+Ocupação: 0.902390
+E[N]: 9.415172
+E[W]: 4.638752
+Erro de Little: 0.124263
+
